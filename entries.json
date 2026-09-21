@@ -1,0 +1,2107 @@
+[
+  {
+    "term": "Ábaco",
+    "definition": "Aparelho de cálculo aritmético constituído por um quadro ou uma caixa com esferas ou argolas que deslizam em vários arames ou hastes paralelas. As principais utilizações do ábaco são em cálculos matemáticos e, principalmente, como ferramenta pedagógica para o ensino da matemática e o desenvolvimento cognitivo.",
+    "page": 1
+  },
+  {
+    "term": "Abscissa",
+    "definition": "Coordenada horizontal de um ponto em um sistema de coordenadas cartesianas, também conhecida como o eixo x. Em um par ordenado, a abscissa é o primeiro valor. (veja plano cartesiano)",
+    "page": 1
+  },
+  {
+    "term": "Adição",
+    "definition": "Uma das operações fundamentais da matemática. Ela está presente no nosso dia a dia e é usada sempre que precisamos juntar quantidades ou aumentar um valor. O símbolo que representa a adição é o “+” (mais) e o resultado da operação é chamado de soma ou total. Quando somamos dois ou mais números, cada um deles é chamado de parcela. A adição admite as propriedades associativa, comutativa e elemento neutro (o zero é o elemento neutro da adição).",
+    "page": 1
+  },
+  {
+    "term": "Adição algébrica",
+    "definition": "Operação de somar números algébricos, ou seja, números que podem ter sinais positivos ou negativos. Ela é muito usada em equações, expressões algébricas e cálculos com números inteiros.",
+    "page": 2
+  },
+  {
+    "term": "Adjacente",
+    "definition": "Termo usado para indicar algo que está ao lado. A palavra vem do latim “adjacens”, que significa “estar junto”.",
+    "page": 2
+  },
+  {
+    "term": "ALA",
+    "definition": "Um dos critérios de congruência de triângulos. A sigla significa Ângulo, Lado, Ângulo. O Caso ALA estabelece que: Se dois triângulos possuem dois ângulos e o lado adjacente entre esses ângulos respectivamente congruentes aos de outro triângulo, então os dois triângulos são congruentes.",
+    "page": 2
+  },
+  {
+    "term": "Algarismo",
+    "definition": "Cada símbolo usado para formar números. No sistema decimal, existem 10 algarismos: 0, 1, 2, 3, 4, 5, 6, 7, 8 e 9. Com a combinação desses dez algarismos conseguimos formar qualquer número do sistema de numeração indoarábico. A palavra algarismo deriva do nome do matemático Al-Khowarizmi.",
+    "page": 2
+  },
+  {
+    "term": "Álgebra",
+    "definition": "Parte da matemática que usa letras, números e símbolos para representar e resolver problemas. As letras (chamadas de variáveis) servem para indicar valores desconhecidos ou que podem mudar.",
+    "page": 3
+  },
+  {
+    "term": "Algoritmo",
+    "definition": "Sequência finita de regras, raciocínios ou operações que, aplicada a um número finito de dados, permite solucionar classes semelhantes de problemas. Observe abaixo os algoritmos da divisão e da multiplicação:",
+    "page": 3
+  },
+  {
+    "term": "Altura",
+    "definition": "Medida da distância vertical de uma figura ou objeto, ou a menor distância de um vértice a um lado oposto (base) de um polígono, formando um ângulo reto de 90° com essa base. Em um triângulo, a altura é um segmento de reta que sai de um vértice e é perpendicular ao lado oposto a esse vértice. As três alturas de um triângulo se encontram em um ponto chamado de ortocentro. (veja ortocentro) h = altura",
+    "page": 3
+  },
+  {
+    "term": "Ampliação",
+    "definition": "Processo de aumentar as dimensões de uma figura geométrica de forma proporcional, ou seja, mantendo a forma e os ângulos originais. Para fazer isso, multiplica-se todas as medidas da figura original por um fator de ampliação (um número maior que 1). O resultado é uma figura semelhante à original, porém, maior.",
+    "page": 4
+  },
+  {
+    "term": "Ângulo",
+    "definition": "Regiões obtidas pelo encontro de duas semirretas. O ponto de encontro das semirretas é chamado de vértice do ângulo. As semirretas são chamadas de lado. Existem vários tipos de ângulos, que são determinados por suas medidas em grau.",
+    "page": 4
+  },
+  {
+    "term": "Ângulo agudo",
+    "definition": "Ângulo cuja medida é maior que 0° e menor que 90°, ou seja, é um ângulo mais fechado do que um ângulo reto.",
+    "page": 4
+  },
+  {
+    "term": "Ângulo central",
+    "definition": "Ângulo que está no centro da circunferência. Quando isso acontece, podemos dizer que a amplitude do ângulo central é igual à amplitude do arco.",
+    "page": 5
+  },
+  {
+    "term": "Ângulo externo",
+    "definition": "Ângulo formado fora de uma figura geométrica, geralmente fora de um polígono, quando prolongamos um dos seus lados. O ângulo externo é o ângulo suplementar ao ângulo interno do polígono no mesmo vértice. (veja ângulo suplementar)",
+    "page": 5
+  },
+  {
+    "term": "Ângulo interno",
+    "definition": "Ângulo formado internamente por dois lados consecutivos de um polígono, ou seja, o vértice de um ângulo interno coincide com o vértice do polígono. Em um triângulo, a soma dos ângulos internos é igual a 180º.",
+    "page": 6
+  },
+  {
+    "term": "Ângulo nulo",
+    "definition": "Ângulo com medida zero (0°). Ele ocorre quando as duas semirretas que formam o ângulo coincidem, ou seja, não há nenhuma abertura entre elas.",
+    "page": 6
+  },
+  {
+    "term": "Ângulo obtuso",
+    "definition": "Ângulo com medida maior que 90° e menor que 180°. Em outras palavras, ele é mais aberto que um ângulo reto e mais fechado que um ângulo raso.",
+    "page": 6
+  },
+  {
+    "term": "Ângulo raso",
+    "definition": "Ângulo que mede exatamente 180°, conhecido como ângulo de meia volta. Ele é formado por uma linha reta, onde os dois lados do ângulo apontam em direções opostas a partir de um mesmo vértice.",
+    "page": 6
+  },
+  {
+    "term": "Ângulo reto",
+    "definition": "Ângulo que mede exatamente 90 graus (90º). Ele é formado pela interseção de duas retas perpendiculares e tem a forma da letra \"L\". É representado por um quadrado com um ponto no centro, no vértice, para indicar a sua medida.",
+    "page": 7
+  },
+  {
+    "term": "Ângulos adjacentes",
+    "definition": "Ângulos que estão lado a lado, compartilham o mesmo vértice e dividem um lado em comum, mas não se sobrepõem (suas regiões internas não têm pontos em comum).",
+    "page": 7
+  },
+  {
+    "term": "Ângulos complementares",
+    "definition": "Ângulos cuja soma é igual a 90° (noventa graus).",
+    "page": 7
+  },
+  {
+    "term": "Ângulos opostos pelo vértice",
+    "definition": "Pares de ângulos formados quando duas retas se cruzam, sendo opostos um ao outro e tendo a mesma medida (são congruentes). Eles não são adjacentes e seus lados são semirretas opostas umas às outras. Os ângulos opostos pelo vértice são indicados pela sigla OPV.",
+    "page": 8
+  },
+  {
+    "term": "Ângulos suplementares",
+    "definition": "Ângulos cuja soma é igual a 180° (cento e oitenta graus).",
+    "page": 8
+  },
+  {
+    "term": "Antecessor",
+    "definition": "Número que vem imediatamente antes de um determinado número. Para encontrá-lo, basta subtrair 1 do número em questão.",
+    "page": 9
+  },
+  {
+    "term": "Apótema",
+    "definition": "Designação dada ao segmento de reta com extremidades no centro geométrico da figura e ponto médio de um lado do polígono regular. O apótema é perpendicular a esse lado.",
+    "page": 9
+  },
+  {
+    "term": "Aproximação",
+    "definition": "Processo de substituir um número por outro que está próximo dele na reta numérica para facilitar cálculos ou representar números que tem muitas casas decimais.",
+    "page": 9
+  },
+  {
+    "term": "Arco",
+    "definition": "Porção de uma curva, geralmente de uma circunferência ou círculo, delimitada por dois pontos. Dois pontos em uma circunferência dividem-na em dois arcos, um menor e um maior. A medida de um arco de circunferência está diretamente relacionada ao ângulo central que ele subtende.",
+    "page": 9
+  },
+  {
+    "term": "Área",
+    "definition": "Medida da superfície de um objeto bidimensional, ou seja, a quantidade de espaço que uma figura plana ocupa. Ela é expressa em unidades quadradas, como metros quadrados (m2), centímetros quadrados (cm2) ou quilômetros quadrados (km2), indicando quantas vezes um quadrado de um metro (ou outra unidade) cabe dentro da figura.",
+    "page": 10
+  },
+  {
+    "term": "Área lateral",
+    "definition": "Soma das áreas das faces laterais de um sólido tridimensional, excluindo as bases.",
+    "page": 10
+  },
+  {
+    "term": "Aresta",
+    "definition": "Reta que se origina a partir da interseção de dois planos que formam um ângulo ou então a reta que liga dois vértices consecutivos em qualquer figura geométrica. A palavra é bastante utilizada nos estudos sobre geometria, pois costuma caracterizar a união de dois lados de qualquer forma geométrica ou trigonométrica.",
+    "page": 10
+  },
+  {
+    "term": "Avos",
+    "definition": "Termo usado na matemática para denominadores de frações com valor maior que dez (como em \"um doze avos\" para 1/12). Ele funciona como um substantivo masculino para indicar cada uma das partes iguais em que a unidade foi dividida.",
+    "page": 10
+  },
+  {
+    "term": "Baricentro",
+    "definition": "Ponto de encontro das três medianas de um triângulo. Conhecido como o centro de gravidade (G) do triângulo, o baricentro divide cada mediana na proporção de (2:1), sendo a parte que vai do vértice ao baricentro o dobro da parte que vai do baricentro ao ponto médio do lado oposto.",
+    "page": 11
+  },
+  {
+    "term": "Base",
+    "definition": "Em um sistema de numeração, é a quantidade de dígitos que o sistema usa para representar números (como a base 10 para o sistema decimal); em potenciação, é o número que é multiplicado por ele mesmo o número de vezes indicado pelo expoente e na geometria significa o lado (figura plana) ou a superfície (figura espacial) inferior.",
+    "page": 11
+  },
+  {
+    "term": "Binômio",
+    "definition": "Expressão algébrica composta por dois monômios conectados por uma operação de adição ou subtração.",
+    "page": 11
+  },
+  {
+    "term": "Bissetriz",
+    "definition": "Semirreta interna de um ângulo traçada a partir do vértice deste, dividindo-o em dois ângulos congruentes. As bissetrizes de um triângulo se encontram em um ponto conhecido como incentro, que é o centro da circunferência inscrita nesse polígono. (veja incentro)",
+    "page": 11
+  },
+  {
+    "term": "Bloco retangular",
+    "definition": "Sólido geométrico tridimensional com seis faces retangulares, doze arestas e oito vértices. As faces opostas são sempre iguais.",
+    "page": 12
+  },
+  {
+    "term": "Calculadora",
+    "definition": "Ferramenta tecnológica, um dispositivo eletrônico, utilizado para realizar operações e cálculos de forma rápida e precisa. Ela pode ser usada tanto para operações básicas (adição, subtração, multiplicação, divisão) quanto para funções mais complexas, dependendo do tipo (como calculadoras científicas ou gráficas).",
+    "page": 13
+  },
+  {
+    "term": "Cálculo",
+    "definition": "Tem sua origem no latim calculus, que é um diminutivo de calx, significando \"pedra pequena\" ou \"seixo\". Originalmente, o termo era usado para designar pedrinhas usadas para fazer contas, contar votos ou em dispositivos como ábacos, ou seja, cálculo é o ato de fazer contas.",
+    "page": 13
+  },
+  {
+    "term": "Capacidade",
+    "definition": "Quantidade de líquido ou gás que um recipiente pode conter. Ela é frequentemente usada para medir o volume interno de um objeto, como uma garrafa, tanque ou caixa d'água. A unidade padrão de capacidade é o litro (L), e outras unidades comuns incluem mililitro (mL), quilolitro (kL) e hectolitro (hL).",
+    "page": 13
+  },
+  {
+    "term": "Casa decimal",
+    "definition": "Cada posição que um algarismo ocupa à direita da vírgula em um número decimal. Elas representam partes não inteiras ou fracionadas de um número.",
+    "page": 13
+  },
+  {
+    "term": "Cateto",
+    "definition": "Cada um dos lados que formam o ângulo reto no triângulo retângulo. Como os catetos são opostos aos menores ângulos do triângulo retângulo, então eles são os menores lados desse triângulo.",
+    "page": 13
+  },
+  {
+    "term": "Centena",
+    "definition": "Grupo de cem. É a terceira ordem das unidades, contadas da direita para esquerda em um número inteiro. Uma centena é equivalente a 10 dezenas ou 100 unidades.",
+    "page": 14
+  },
+  {
+    "term": "Centímetro",
+    "definition": "Unidade de medida de comprimento representada pela sigla “cm”. É a centésima parte do metro, ou seja, se você dividir um metro em 100 partes iguais, cada uma dessas partes é um centímetro. (1 metro = 100 centímetros)",
+    "page": 14
+  },
+  {
+    "term": "Ceviana",
+    "definition": "Segmento de reta que parte do vértice de um triângulo e se conecta a um ponto no lado oposto (ou seu prolongamento). Exemplos comuns de cevianas são: a mediana, a altura e a bissetriz. O nome vem do matemático italiano Giovanni Ceva. (veja mediana, altura e bissetriz).",
+    "page": 14
+  },
+  {
+    "term": "Cilindro",
+    "definition": "Sólido geométrico que possui duas bases circulares paralelas e uma superfície lateral curva. É considerado um \"corpo redondo\" porque pode ser formado pela rotação de uma figura plana (um retângulo) em torno de um dos seus lados e tem o diâmetro constante ao longo de seu comprimento. O cilindro pode ser reto ou oblíquo. Cilindro reto Cilindro oblíquo",
+    "page": 14
+  },
+  {
+    "term": "Círculo",
+    "definition": "Figura plana cuja periferia (Circunferência) está toda a mesma distância do seu centro. É a união da circunferência com todos os seus pontos internos.",
+    "page": 15
+  },
+  {
+    "term": "Circuncentro",
+    "definition": "Ponto de encontro das mediatrizes de um triângulo e centro da circunferência circunscrita, ou seja, a circunferência que passa pelos três vértices do triângulo. Esse ponto é equidistante de todos os vértices, e essa distância é igual ao raio da circunferência. (veja mediatriz).",
+    "page": 15
+  },
+  {
+    "term": "Circunferência",
+    "definition": "Linha curva fechada e plana, formada por todos os pontos que estão à mesma distância de um ponto central. É o contorno de um círculo e, por ser uma linha, tem seu comprimento medido em unidades lineares como metros ou centímetros. Seus principais elementos incluem: centro, raio, diâmetro, corda e arco.",
+    "page": 15
+  },
+  {
+    "term": "Classe",
+    "definition": "Grupo formado por três ordens numéricas consecutivas no sistema de numeração decimal, contadas da direita para a esquerda.",
+    "page": 16
+  },
+  {
+    "term": "Coeficiente",
+    "definition": "Valor numérico que multiplica uma variável em uma expressão algébrica. Por exemplo, na expressão 3x, o número 3 é o coeficiente da variável x. Em outras palavras, o coeficiente é o número que indica quantas vezes a variável deve ser multiplicada.",
+    "page": 16
+  },
+  {
+    "term": "Combinação",
+    "definition": "Processo matemático utilizado para contar a quantidade de subconjuntos diferentes, possíveis de serem formados, ao escolher elementos de um conjunto maior, não importando a ordem dos elementos.",
+    "page": 16
+  },
+  {
+    "term": "Comparação",
+    "definition": "Processo ou método pelo qual se pode determinar se um número é menor, maior ou igual a outro, de acordo com seus valores. Os símbolos usados para comparar números são: “”, que significa “maior que”; “”, que significa “menor que”; e “=”, que significa “igual a”.",
+    "page": 16
+  },
+  {
+    "term": "Compasso",
+    "definition": "Ferramenta para desenhar figuras circulares com precisão e ajudar a entender conceitos como raio, diâmetro e circunferência. Ele é fundamental para construções geométricas exatas, especialmente quando usado em conjunto com uma régua.",
+    "page": 16
+  },
+  {
+    "term": "Comprimento",
+    "definition": "Grandeza usada para medir a distância entre dois pontos. As unidades para medir o comprimento são: quilômetro, hectômetro, decâmetro, metro, decímetro, centí-",
+    "page": 16
+  },
+  {
+    "term": "Côncavo",
+    "definition": "Algo curvado para dentro, que tem \"buracos\" ou depressões. Para um polígono, isso significa que ele possui pelo menos um ângulo interno maior que 180°.",
+    "page": 17
+  },
+  {
+    "term": "Cone",
+    "definition": "Sólido geométrico com base circular que se afunila até um ponto (vértice). É um corpo redondo, estudado na geometria espacial, e pode ser classificado em reto (quando a altura é perpendicular à base) ou oblíquo.",
+    "page": 17
+  },
+  {
+    "term": "Congruência",
+    "definition": "Conceito geométrico semelhante a igualdade entre números, porém, aplicado para as figuras geométricas.",
+    "page": 17
+  },
+  {
+    "term": "Congruente",
+    "definition": "Característica atribuída a dois ou mais objetos geométricos (figuras, ângulos, lados) que têm a mesma forma e o mesmo tamanho. Isso significa que um pode ser exatamente sobreposto ao outro. A congruência é indicada pelo símbolo ≅. Cone oblíquo Cone reto",
+    "page": 17
+  },
+  {
+    "term": "Conjunto",
+    "definition": "Coleção de objetos distintos, chamados de elementos, que compartilham alguma característica em comum. A ordem ou repetição dos elementos não importa para a definição do conjunto. Exemplos incluem o conjunto das vogais {a,e,i,o,u}, o conjunto dos números pares {..., -2, 0, 2, 4, ...}, ou o conjunto de alunos em uma sala de aula.",
+    "page": 18
+  },
+  {
+    "term": "Conjunto dos números inteiros",
+    "definition": "Conjunto que inclui todos os números naturais (como 1, 2, 3...), seus opostos negativos (..., −3, -2, -1) e o zero. Este conjunto é representado pela letra ℤ e não contém números fracionários ou decimais. Os inteiros podem ser visualizados em uma reta numérica, onde o zero fica no centro, os números positivos à direita e os negativos à esquerda. ℤ= {… , −3, −2, −1, 0, 1, 2, 3, … }",
+    "page": 18
+  },
+  {
+    "term": "Conjunto dos números irracionais",
+    "definition": "Conjunto representado pela letra 𝕀. É formado pelos números que não podem ser expressos como uma fração de dois números inteiros (a/b). Sua representação decimal é infinita e não periódica, ou seja, os dígitos após a vírgula continuam para sempre sem um padrão de repetição. Exemplos clássicos de números irracionais incluem o número pi (π) e a raiz quadrada de 2. De modo geral, toda radiciação não exata é um número irracional.",
+    "page": 18
+  },
+  {
+    "term": "Conjunto dos números naturais",
+    "definition": "Conjunto formado pelos números inteiros não negativos, incluindo o zero. São usados para contagem e ordenação. O conjunto é representado pela letra ℕ e é infinito, pois sempre existe um sucessor para qualquer número natural (basta somar 1). √2 √5 √9 3 𝜋 𝕀",
+    "page": 18
+  },
+  {
+    "term": "Conjunto dos números racionais",
+    "definition": "Conjunto formado por todos os números que podem ser expressos na forma de fração a/b, onde a e b são números inteiros e b é diferente de zero. Esse conjunto inclui todos os números naturais e inteiros, bem como todos os números decimais exatos (finitos) e dízimas periódicas (infinita e periódica). A letra que representa o conjunto dos números racionais é o ℚ que vem da palavra \"quociente\", o resultado de uma divisão.",
+    "page": 19
+  },
+  {
+    "term": "Conjunto dos números reais",
+    "definition": "União do conjunto dos números racionais ℚ com o conjunto dos números irracionais 𝕀. Isso significa que os números reais incluem todos os números que podem ser representados na reta numérica, como números inteiros, frações, decimais finitos ou infinitos e periódicos, além de dízimas não periódicas (irracionais). O conjunto dos números reais é representado pela letra ℝ.",
+    "page": 19
+  },
+  {
+    "term": "Conjunto numérico",
+    "definition": "Coleção de números que compartilham características semelhantes. Eles são agrupados para melhor classificação e compreensão matemática. A compreensão desses conjuntos é fundamental em diversos cálculos e na delimitação de domínios para funções e variáveis. ℕ 3 5 1,5 ℤ ℚ 3,151515 … ℕ ℤ 𝕀 ℚ ℝ",
+    "page": 19
+  },
+  {
+    "term": "Conjunto solução",
+    "definition": "Conjunto de todos os valores que tornam uma equação ou inequação verdadeira. Esses valores devem pertencer ao conjunto universo previamente estabelecido. O conjunto solução é indicado pela letra (S).",
+    "page": 20
+  },
+  {
+    "term": "Conjunto unitário",
+    "definition": "Conjunto que contém exatamente um elemento. Esse elemento pode ser um número, uma letra, um objeto ou qualquer outra coisa.",
+    "page": 20
+  },
+  {
+    "term": "Conjunto universo",
+    "definition": "Conjunto que contém todos os elementos que podem ser considerados dentro de um determinado problema ou contexto matemático. Ele estabelece o \"universo\" de possibilidades para uma variável, e todos os outros conjuntos em questão são subconjuntos deste conjunto universo.",
+    "page": 20
+  },
+  {
+    "term": "Conjunto vazio",
+    "definition": "Conjunto que não contém nenhum elemento. Ele é representado pelo símbolo ∅ (um círculo cortado) ou por duas chaves vazias, como {}.",
+    "page": 20
+  },
+  {
+    "term": "Consecutivo",
+    "definition": "Algo que segue em ordem ininterrupta, um após o outro.",
+    "page": 20
+  },
+  {
+    "term": "Constante",
+    "definition": "Valor que não muda; pode ser um número fixo (como 5, -3, ou 0.25), uma letra que representa um valor fixo (como 𝜋 ou ℯ), ou um coeficiente que tem um valor imutável em uma expressão ou equação. A principal característica da constante é sua invariabilidade.",
+    "page": 20
+  },
+  {
+    "term": "Constante de proporcionalidade",
+    "definition": "Número fixo que representa a razão entre duas grandezas diretamente proporcionais. Se uma grandeza y é diretamente proporcional a outra x, a razão entre elas y/x é sempre a mesma, e esse valor é a constante de proporcionalidade k. Essa constante pode ser calculada pela fórmula k=y/x.",
+    "page": 20
+  },
+  {
+    "term": "Contagem",
+    "definition": "Ato de determinar o número total de elementos em um conjunto, associando um número a cada item em uma sequência para encontrar a quantidade final. Historicamente,",
+    "page": 20
+  },
+  {
+    "term": "Convexo",
+    "definition": "Forma geométrica onde todos os ângulos internos são menores que 180º e qualquer segmento de reta que une dois pontos sobre ou dentro de uma forma ficará inteiramente sobre ou dentro da forma.",
+    "page": 21
+  },
+  {
+    "term": "Coordenadas cartesianas",
+    "definition": "Conjunto de números que definem a localização de um ponto em um espaço, como um plano bidimensional. Elas são escritas como um par ordenado (x,y) onde o número x indica a posição horizontal e o y indica a posição vertical. Em um plano cartesiano, os eixos x (abscissas) e y (ordenadas) se cruzam na origem (0,0). Observe o ponto (3, 2) no plano abaixo. (veja plano cartesiano)",
+    "page": 21
+  },
+  {
+    "term": "Corda",
+    "definition": "Segmento de reta que liga dois pontos quaisquer de uma circunferência ou de outra seção cônica. O diâmetro é a maior corda possível pois passa pelo centro da circunferência. (veja diâmetro)",
+    "page": 21
+  },
+  {
+    "term": "Corpos redondos",
+    "definition": "Sólidos geométricos que possuem pelo menos uma superfície curva ou arredondada, como esferas, cilindros e cones. Eles se distinguem dos poliedros por não terem arestas e vértices definidos, o que lhes confere a característica de rolar sobre uma superfície. (Veja cilindro, esfera e cone)",
+    "page": 22
+  },
+  {
+    "term": "Cosseno",
+    "definition": "Função trigonométrica que representa a razão entre a medida do cateto adjacente a um ângulo e a medida da hipotenusa em um triângulo retângulo. Ele também pode ser definido no círculo trigonométrico como a coordenada horizontal (eixo x) de um ponto na circunferência correspondente ao ângulo.",
+    "page": 22
+  },
+  {
+    "term": "Critérios de divisibilidade",
+    "definition": "Regras matemáticas que permitem determinar se um número é divisível por outro, ou seja, se a divisão tem resto zero, sem a necessidade de realizar a divisão completa. Essas regras se baseiam nas propriedades dos algarismos do número, como a soma dos algarismos ou o valor do seu último dígito. Por exemplo, temos que todo",
+    "page": 22
+  },
+  {
+    "term": "Cubo",
+    "definition": "Um cubo na matemática pode significar duas coisas principais: um número elevado à terceira potência (aritmética) ou uma figura geométrica tridimensional (geometria). Na aritmética, o cubo de um número é o resultado de multiplicálo por si mesmo três vezes. Na geometria, é um sólido com seis faces quadradas, 12 arestas e 8 vértices.",
+    "page": 23
+  },
+  {
+    "term": "Decágono",
+    "definition": "Figura geométrica que possui 10 lados e 10 ângulos internos. “Deca” vem do grego e significa dez e “gono” significa ângulo. Suas propriedades incluem a soma dos ângulos internos que totaliza 1440° e a medida de cada ângulo interno é de 144°.",
+    "page": 24
+  },
+  {
+    "term": "Decâmetro",
+    "definition": "Unidade de medida de comprimento no sistema métrico decimal. Um decâmetro equivale a 10 metros. O prefixo \"deca\" significa 10 e \"metro\" é a unidade base de comprimento.",
+    "page": 24
+  },
+  {
+    "term": "Décima parte",
+    "definition": "Dividir um número, uma quantidade ou um todo em dez partes iguais. Para encontrar a décima parte de um número, basta dividi-lo por 10. Isso também equivale a calcular 10% desse valor.",
+    "page": 24
+  },
+  {
+    "term": "Decimal",
+    "definition": "Decimal significa um número que representa partes de um todo, não sendo um número inteiro, e é escrito com uma vírgula separando a parte inteira da parte decimal. Eles são usados para quantificar valores menores que a unidade, como em dinheiro (R$ 2,50) ou em medidas (1,75m). A posição de cada algarismo após a vírgula indica seu valor: a primeira casa são os décimos, a segunda os centésimos, e assim por diante.",
+    "page": 24
+  },
+  {
+    "term": "Decímetro",
+    "definition": "É uma unidade de medida de comprimento do Sistema Internacional de medidas (SI) que é igual a um décimo de um metro, ou seja, 1 decímetro (1 dm) = 0,1 metros (0,1m).",
+    "page": 24
+  },
+  {
+    "term": "Décimo",
+    "definition": "Uma das dez partes iguais de um todo, representando a fração 1/10 ou o número decimal 0,10.",
+    "page": 25
+  },
+  {
+    "term": "Decomposição",
+    "definition": "Ato de separar um número em partes menores, de acordo com o valor posicional de cada algarismo.",
+    "page": 25
+  },
+  {
+    "term": "Decomposição em fatores primos",
+    "definition": "Processo de escrever um número como uma multiplicação de números primos, como por exemplo, 24=2x2x2x3. Esse processo utiliza divisões sucessivas por números primos até que o resultado seja 1, sendo uma ferramenta essencial para simplificar cálculos, encontrar o Máximo Divisor Comum (MDC) e o Mínimo Múltiplo Comum (MMC). (veja números primos)",
+    "page": 25
+  },
+  {
+    "term": "Delta",
+    "definition": "Letra grega (∆) usada para representar variações ou um valor específico. A mais famosa utilização é na equação do 2º grau, onde o valor do delta (ou discriminante) é calculado a partir dos coeficientes da equação do segundo grau, de acordo com a fórmula (∆= 𝑏2 −4. 𝑎. 𝑐)",
+    "page": 25
+  },
+  {
+    "term": "Denominador",
+    "definition": "Número que fica na parte inferior de uma fração e indica a quantidade total de partes iguais em que um todo foi dividido.",
+    "page": 25
+  },
+  {
+    "term": "Desconto",
+    "definition": "Redução de um valor em relação ao seu valor original, seja em uma transação financeira ou em um preço de produto.",
+    "page": 25
+  },
+  {
+    "term": "Desigualdade",
+    "definition": "Relação que compara duas quantidades que não são necessariamente iguais, usando símbolos como \">\" (maior que), \"<\" (menor que), \"≥\" (maior ou igual a) e \"≤\" (menor ou igual a). Diferente das equações, que geralmente têm uma resposta exata, as desigualdades representam uma gama de possíveis soluções.",
+    "page": 25
+  },
+  {
+    "term": "Dezena",
+    "definition": "Um agrupamento de dez unidades. É a segunda ordem (valor posicional) no sistema de numeração decimal, logo após as unidades.",
+    "page": 25
+  },
+  {
+    "term": "Diagonal",
+    "definition": "Segmento de reta que une dois vértices não consecutivos de um polígono ou poliedro.",
+    "page": 26
+  },
+  {
+    "term": "Diâmetro",
+    "definition": "Comprimento da reta que passa pelo centro e toca dois pontos na borda do círculo. As duas fórmulas que envolvem o diâmetro são a que diz que o diâmetro é o dobro do raio (𝑑= 2. 𝑟) e a que diz que o comprimento da circunferência é o diâmetro vezes pi (𝜋) (𝐶= 2. 𝜋. 𝑟).",
+    "page": 26
+  },
+  {
+    "term": "Diferença",
+    "definition": "Resultado obtido pela subtração de dois números. Ela representa a quantidade que um número difere do outro e é encontrada ao subtraí-los.",
+    "page": 26
+  },
+  {
+    "term": "Diferença de dois quadrados",
+    "definition": "Fatoração algébrica onde uma subtração de dois termos, ambos quadrados perfeitos, é transformada no produto da soma pela diferença de suas raízes quadradas. Sua fórmula é 𝑎2 −𝑏2 = (𝑎+ 𝑏). (𝑎−𝑏), sendo uma ferramenta essencial para simplificar expressões e resolver equações. (veja fatoração e produtos notáveis)",
+    "page": 26
+  },
+  {
+    "term": "Diferente",
+    "definition": "Na matemática, \"diferente\" pode ter dois significados: o símbolo de desigualdade (÷), que indica que dois valores ou expressões não são equivalentes, ou a diferença entre dois números, que é a distância entre eles em uma reta numérica e é calculada pela subtração.",
+    "page": 27
+  },
+  {
+    "term": "Distância",
+    "definition": "Medida do menor caminho entre dois pontos, geralmente calculado em linha reta como a distância euclidiana. Ela também pode se referir à distância entre um ponto e uma reta, que é a medida perpendicular da reta até o ponto mais próximo.",
+    "page": 27
+  },
+  {
+    "term": "Dívida",
+    "definition": "Valor em dinheiro que se deve pagar. Geralmente se refere ao ativo, mas o termo pode cobrir outras obrigações.",
+    "page": 27
+  },
+  {
+    "term": "Dividendo",
+    "definition": "Número que está sendo dividido em um problema de divisão. Em uma fração, é o número de cima, também chamado de numerador.",
+    "page": 27
+  },
+  {
+    "term": "Divisão",
+    "definition": "Operação matemática em que repartimos um número ou corpo em partes iguais. Para dividir, nós precisamos saber o número total de objetos e também o número de grupos ou o número de objetos em cada grupo. O símbolo da divisão é ÷. (veja algoritmo)",
+    "page": 27
+  },
+  {
+    "term": "Divisibilidade",
+    "definition": "Conceito matemático que indica quando um número pode ser dividido exatamente por outro, sem deixar resto. (veja critérios de divisibilidade)",
+    "page": 27
+  },
+  {
+    "term": "Divisível",
+    "definition": "Capacidade que indica quando um número pode ser dividido por outro sem deixar resto. Se um número “a” é divisível por um número “b”, dizemos que “b” é divisor de “a” e “a” é múltiplo de “b”.",
+    "page": 27
+  },
+  {
+    "term": "Divisor",
+    "definition": "Número que divide exatamente outro número, chamado dividendo, ou seja, sem deixar resto. Dizemos que nesse caso, o dividendo é divisível pelo divisor.",
+    "page": 27
+  },
+  {
+    "term": "Dízima periódica",
+    "definition": "Uma dízima periódica é um número decimal infinito em que um ou mais algarismos se repetem em um padrão constante após a vírgula, chamado de “período”. As dízimas periódicas são exemplos de números irracionais. 179 33 140 5,4242 80 140",
+    "page": 28
+  },
+  {
+    "term": "Dobro",
+    "definition": "Número multiplicado por dois. Você pode calcular o dobro de duas maneiras: somando o número a si mesmo ou multiplicando-o por dois.",
+    "page": 28
+  },
+  {
+    "term": "Dodecaedro",
+    "definition": "Poliedro com doze faces. O dodecaedro regular é um dos cinco sólidos platônicos. Ele é caracterizado por ter 12 faces pentagonais regulares, 20 vértices e 30 arestas, sendo considerado o mais harmônico dos sólidos platônicos. O nome vem do grego \"dodeca\" (doze) e \"hedra\" (face ou lado).",
+    "page": 28
+  },
+  {
+    "term": "Dodecágono",
+    "definition": "Figura geométrica que possui 12 lados e 12 ângulos internos. A palavra “dodeca” vem do grego e significa doze e “gono” significa ângulo. Suas propriedades incluem a soma dos ângulos internos que totaliza 1800° e a medida de cada ângulo interno é 150°.",
+    "page": 28
+  },
+  {
+    "term": "Dúzia",
+    "definition": "Quantidade equivalente a doze unidades. É muito comum no comércio para embalar e vender itens como ovos, laranjas e flores.",
+    "page": 29
+  },
+  {
+    "term": "Economia",
+    "definition": "campo que aplica ferramentas e modelos matemáticos para desenvolver teorias econômicas rigorosas e analisar fenômenos econômicos. Ela usa a matemática para construir modelos que representam relações entre variáveis, permitindo a realização de experimentos quantitativos e a previsão de resultados. Essa abordagem transforma o estudo da economia em uma disciplina mais técnica e precisa.",
+    "page": 30
+  },
+  {
+    "term": "Eixo de simetria",
+    "definition": "reta que divide uma figura em duas partes iguais.",
+    "page": 30
+  },
+  {
+    "term": "Eixos cartesianos",
+    "definition": "retas de referência para o plano cartesiano onde o eixo x está na horizontal e eixo y na vertical.",
+    "page": 30
+  },
+  {
+    "term": "Elemento",
+    "definition": "Objeto individual que compõe um conjunto. Esses objetos podem ser de qualquer tipo: números (1,2,3), letras (a,b,c), pessoas, pontos ou até mesmo outros conjuntos. Por exemplo, em um conjunto de vogais, as letras {a, e, i, o, u} são os elementos.",
+    "page": 30
+  },
+  {
+    "term": "Elemento neutro",
+    "definition": "Número que, quando aplicado a uma operação, não altera o valor do outro número envolvido. Os elementos neutros mais comuns são o zero (neutro da adição e subtração) e o um (neutro da multiplicação e divisão).",
+    "page": 31
+  },
+  {
+    "term": "Eneágono",
+    "definition": "Figura geométrica que possui 9 lados e 9 ângulos internos. “enea” vem do grego e significa nove e “gono” significa ângulo. Suas propriedades incluem a soma dos ângulos internos que totaliza 1260° e a medida de cada ângulo interno é 140°.",
+    "page": 31
+  },
+  {
+    "term": "Enésimo",
+    "definition": "Posição de um termo em uma sequência representada pela letra n, que pode ser qualquer número inteiro. Também pode se referir à raiz enésima de um número, que é a raiz com um índice n ( √𝑎 𝑛 ) e a enésima potência, ou seja, um número elevado a um expoente n (𝑎𝑛)",
+    "page": 31
+  },
+  {
+    "term": "Equação",
+    "definition": "Sentença matemática que expressa uma igualdade entre duas expressões, contendo pelo menos uma incógnita (um valor desconhecido representado por uma letra). O objetivo de uma equação é encontrar o valor da incógnita que torna a igualdade verdadeira.",
+    "page": 31
+  },
+  {
+    "term": "Equação biquadrada",
+    "definition": "Equação do quarto grau (ou seja, o maior expoente da incógnita é 4), mas que só tem potências pares da variável — geralmente x4, x2 e um número constante. A forma geral da equação biquadrada é: 𝑎𝑥2 + 𝑏𝑥2 + 𝑐= 0 onde a, b e c são coeficientes reais com a≠0.",
+    "page": 31
+  },
+  {
+    "term": "Equação completa",
+    "definition": "Equação onde todos os coeficientes são diferentes de zero.",
+    "page": 32
+  },
+  {
+    "term": "Equação do 1º grau",
+    "definition": "Sentença matemática que expressa uma igualdade e possui uma incógnita (uma letra) elevada apenas à primeira potência. O objetivo é encontrar o valor dessa incógnita que torna a igualdade verdadeira, isolandoa através de operações inversas (soma/subtração e multiplicação/divisão). A forma geral é ax+b=0, onde a e b são números reais e a≠0.",
+    "page": 32
+  },
+  {
+    "term": "Equação do 2º grau",
+    "definition": "expressão algébrica que contém uma incógnita elevada à potência de 2, com a forma geral ax2+bx+c=0, onde a, b e c são coeficientes reais e a deve ser diferente de zero. O objetivo é encontrar os valores de x (as raízes da equação) que tornam a igualdade verdadeira.",
+    "page": 32
+  },
+  {
+    "term": "Equação incompleta",
+    "definition": "Equação onde um dos seus coeficientes é igual a zero",
+    "page": 32
+  },
+  {
+    "term": "Equação irracional",
+    "definition": "Equação em que a incógnita (variável) está dentro de um radical. Para resolvê-la, o método principal é elevar ambos os lados da equação à potência correspondente ao índice do radical para eliminar a raiz. Após encontrar o valor, é fundamental substituí-lo na equação original para verificar se a solução é válida e não introduzirá inconsistências.",
+    "page": 32
+  },
+  {
+    "term": "Equidistante",
+    "definition": "Algo que está localizado a uma mesma distância em relação a dois ou mais pontos, objetos ou lugares. A palavra vem do latim aequus (igual) + distans (distante).",
+    "page": 32
+  },
+  {
+    "term": "Equilátero",
+    "definition": "Palavra de origem latina \"aequilaterum\", que significa \"lados iguais\", ou seja, todos os lados de uma figura geométrica têm o mesmo comprimento. O exemplo mais comum é o triângulo equilátero, que tem três lados iguais e, consequentemente, três ângulos internos de 60º. (veja triângulo equilátero)",
+    "page": 32
+  },
+  {
+    "term": "Equivalência",
+    "definition": "Dois ou mais números, frações, expressões ou formas que representam o mesmo valor, quantidade ou razão, mesmo que sejam escritas de forma diferente.",
+    "page": 33
+  },
+  {
+    "term": "Escala",
+    "definition": "Relação entre o tamanho representado e o tamanho real de algo. Relação de proporcionalidade entre medidas de um desenho, mapa, maquete ou modelo e as medidas reais do objeto representado.",
+    "page": 33
+  },
+  {
+    "term": "Escaleno",
+    "definition": "Palavra de origem grega “skalenos”, que significa “irregular” ou “inclinado”. Em geometria, ela é usada principalmente para descrever um triângulo escaleno, que é aquele em que todos os lados têm medidas diferentes e, consequentemente, todos os ângulos também são diferentes. (veja triângulo escaleno)",
+    "page": 33
+  },
+  {
+    "term": "Escrever por extenso",
+    "definition": "Escrever um número usando apenas palavras, em vez de algarismos. Por exemplo, o número 456 é escrito por extenso como \"quatrocentos e cinquenta e seis\". É a forma escrita do nome de um número e não a forma abreviada de algarismos.",
+    "page": 33
+  },
+  {
+    "term": "Esfera",
+    "definition": "Sólido geométrico tridimensional formado por todos os pontos do espaço que estão à mesma distância de um ponto fixo chamado centro.",
+    "page": 33
+  },
+  {
+    "term": "Espessura",
+    "definition": "Menor dimensão de um objeto tridimensional, medida perpendicularmente entre suas faces opostas.",
+    "page": 33
+  },
+  {
+    "term": "Esquadro",
+    "definition": "Ferramenta em formato de triângulo, geralmente com um ângulo reto (90º), usada para traçar linhas retas, perpendiculares e paralelas, além de criar ângulos de 30°, 45° e 60°.",
+    "page": 34
+  },
+  {
+    "term": "Estatística",
+    "definition": "Ramo da matemática aplicada que lida com a coleta, organização, análise, interpretação e apresentação de dados numéricos.",
+    "page": 34
+  },
+  {
+    "term": "Estimativas",
+    "definition": "Cálculo aproximado de um valor, número ou quantidade para facilitar o raciocínio e a rapidez nas operações. Em vez de encontrar um resultado exato, o objetivo é chegar a uma resposta plausível e próxima, geralmente utilizando o arredondamento de números para o valor mais próximo (dezena, centena, etc.) que simplifica a conta.",
+    "page": 34
+  },
+  {
+    "term": "Expoente",
+    "definition": "Elemento da potenciação que indica quantas vezes um número (chamado de base) deve ser multiplicado por si mesmo. (veja potenciação)",
+    "page": 34
+  },
+  {
+    "term": "Expressão",
+    "definition": "Combinação de números, operadores, variáveis livres e símbolos gráficos (como colchetes e parênteses), agrupados de forma significativa de modo a permitir a verificação de valores, formas, meios ou fins. Há uma diferença, no entanto, entre expressões numéricas e expressões algébricas; as expressões numéricas possuem apenas números e as algébricas possuem números e letras ou apenas letras.",
+    "page": 34
+  },
+  {
+    "term": "Expressão algébrica",
+    "definition": "Expressão matemática que combina números, letras (variáveis) e operações matemáticas, como",
+    "page": 34
+  },
+  {
+    "term": "Expressão numérica",
+    "definition": "Combinação de números e operações matemáticas (como adição, subtração, multiplicação, divisão, potenciação e radiciação) que deve ser resolvida seguindo uma ordem específica de precedência para se chegar a um único resultado. A ordem correta é: primeiro resolver potências e raízes, depois multiplicações e divisões e, por último, adições e subtrações. Sinais de associação como parênteses, colchetes e chaves indicam operações que devem ser resolvidas prioritariamente, seguindo a ordem de fechamento (parênteses, depois colchetes e por último chaves).",
+    "page": 35
+  },
+  {
+    "term": "Face",
+    "definition": "Superfície plana de uma figura geométrica tridimensional (poliedro). Em sólidos como o cubo, as faces são os lados quadrados; em uma pirâmide, as faces laterais são triangulares e a base pode ser um polígono diferente.",
+    "page": 36
+  },
+  {
+    "term": "Fator",
+    "definition": "Números que são multiplicados para obter um produto desejado. Os fatores são os elementos da multiplicação. (veja multiplicação).",
+    "page": 36
+  },
+  {
+    "term": "Fatoração",
+    "definition": "Processo de decompor um número, expressão algébrica ou polinômio em um produto de seus fatores. É uma ferramenta fundamental para simplificar expressões, resolver equações e realizar outras operações matemáticas, como encontrar o mínimo múltiplo comum (MMC) ou o máximo divisor comum (MDC).",
+    "page": 36
+  },
+  {
+    "term": "Fatorar",
+    "definition": "Processo de transformar um número ou uma expressão matemática em uma multiplicação (produto) de termos menores chamados de fatores.",
+    "page": 36
+  },
+  {
+    "term": "Feixe de retas",
+    "definition": "Conjunto de três ou mais retas que compartilham uma mesma propriedade geométrica em um plano.",
+    "page": 36
+  },
+  {
+    "term": "Figura Geométrica",
+    "definition": "Formas geométricas, estudadas pela geometria, que podem ser classificados como planas (bidimensionais, como triângulos e quadrados) ou espaciais (tridimensionais, como cubos e esferas). Elas são definidas por propriedades como lados, ângulos, vértices, faces e dimensões (comprimento, largura e altura).",
+    "page": 37
+  },
+  {
+    "term": "Figuras não planas",
+    "definition": "Objetos tridimensionais, também chamadas de sólidos geométricos ou figuras espaciais, que possuem volume, comprimento, largura e altura, e não podem ser representados inteiramente em um único plano.",
+    "page": 37
+  },
+  {
+    "term": "Figuras planas",
+    "definition": "Formas bidimensionais que possuem apenas comprimento e largura, definidas em um plano e fechadas por segmentos de reta ou curvas. Exemplos incluem o quadrado, triângulo, círculo e retângulo. Seu estudo se concentra em conceitos como área e perímetro, diferentemente das figuras espaciais (tridimensionais).",
+    "page": 37
+  },
+  {
+    "term": "Fórmula",
+    "definition": "Regra ou afirmação que expressa uma relação entre grandezas usando símbolos matemáticos, como letras (variáveis), números e sinal de igual. Ela simplifica o cálculo,",
+    "page": 37
+  },
+  {
+    "term": "Fórmula de Bháskara",
+    "definition": "Método matemático usado para encontrar as raízes (ou soluções) de uma equação do segundo grau. Ela fornece os valores de x que tornam a equação verdadeira, através dos coeficientes a, b e c. A fórmula é dada por 𝑥= −𝑏±√Δ 2𝑎 e envolve primeiro o cálculo do discriminante, conhecido como delta, representado por Δ = 𝑏2 −4. 𝑎. 𝑐. A origem do nome está ligada ao matemático indiano Bhaskara, embora ele não tenha criado essa fórmula específica, que é conhecida em outros países como fórmula resolutiva da equação quadrática.",
+    "page": 38
+  },
+  {
+    "term": "Fração",
+    "definition": "Representação de uma ou mais de um todo que foi dividido em partes iguais, sendo escrita como dois números (numerador e denominador) separados por uma barra. O número de cima (numerador) indica quantas partes estão sendo consideradas, enquanto o número de baixo (denominador) indica o total de partes iguais em que o todo foi dividido.",
+    "page": 38
+  },
+  {
+    "term": "Fração aparente",
+    "definition": "Fração que apresenta o numerador múltiplo do denominador. Ao ser efetuada a divisão, o resultado é um número inteiro.",
+    "page": 38
+  },
+  {
+    "term": "Fração geratriz",
+    "definition": "Tipo de fração que, ao dividir o seu numerador pelo denominador, obtemos uma dízima periódica (número decimal infinito). Esse número pertence ao conjunto dos números racionais (Q). Os números decimais periódicos possuem um ou mais algarismos que se repetem de forma infinita chamado de período. (veja dízima periódica)",
+    "page": 38
+  },
+  {
+    "term": "Fração imprópria",
+    "definition": "Fração que apresenta o numerador maior que o denominador.",
+    "page": 39
+  },
+  {
+    "term": "Fração irredutível",
+    "definition": "Fração que não pode mais ser simplificada (reduzida). Isso acontece sempre que o numerador e o denominador não apresentarem divisor maior que 1, ou seja, são primos entre si.",
+    "page": 39
+  },
+  {
+    "term": "Fração própria",
+    "definition": "Fração que apresenta o numerador menor que o denominador.",
+    "page": 39
+  },
+  {
+    "term": "Fracionário",
+    "definition": "Algo que contém ou se relaciona com frações, que são representações de partes de um todo",
+    "page": 39
+  },
+  {
+    "term": "Frequência",
+    "definition": "Quantidade de vezes que um determinado valor ou evento ocorre num conjunto de dados. Ela pode ser expressa de diferentes formas, como a frequência absoluta, que é a contagem direta de um item, e a frequência relativa, que é a porcentagem ou proporção do item em relação ao total. Esse conceito é fundamental na estatística para organizar e interpretar dados.",
+    "page": 39
+  },
+  {
+    "term": "Função",
+    "definition": "Relação entre dois conjuntos onde cada elemento do primeiro conjunto (domínio) está associado a um único elemento do segundo conjunto (contradomínio). Funciona como uma \"máquina\" que pega um valor de entrada aplica uma regra (a fórmula da função) e devolve um único valor de saída.",
+    "page": 39
+  },
+  {
+    "term": "Generalização",
+    "definition": "Ato de estender uma regra, conceito ou propriedade válida para um caso particular ou conjunto restrito de modo a aplicá-la a uma classe mais ampla de objetos ou situações.",
+    "page": 40
+  },
+  {
+    "term": "Geometria",
+    "definition": "Ramo da matemática que estuda as propriedades do espaço, como forma, tamanho, posição relativa de figuras e as relações entre elas. Significa \"medição da terra\" e é utilizada para analisar objetos no mundo real, desde formas planas (como polígonos) até objetos tridimensionais (sólidos geométricos).",
+    "page": 40
+  },
+  {
+    "term": "Geoplano",
+    "definition": "Instrumento pedagógico de matemática, composto por uma base plana com pinos, onde se utilizam elásticos ou barbantes para formar figuras geométricas. Ele é usado para ensinar e explorar conceitos de geometria plana, como a construção de polígonos, cálculo de área e perímetro, além de trabalhar com simetria e até porcentagem.",
+    "page": 40
+  },
+  {
+    "term": "Gráfico",
+    "definition": "Representação visual de dados numéricos através de pontos, linhas e formas geométricas. Ele serve para facilitar a compreensão de padrões, tendências e a comparação entre diferentes valores, tornando informações complexas mais claras e acessíveis. Existem diversos tipos, como gráficos de barras, de linhas e de setores.",
+    "page": 40
+  },
+  {
+    "term": "Gráfico de barras",
+    "definition": "Tipo de gráfico que usa retângulos (barras) para comparar dados de diferentes grupos ou categorias. O tamanho de cada barra mostra o valor ou quantidade",
+    "page": 40
+  },
+  {
+    "term": "Gráfico de linhas",
+    "definition": "Tipo de gráfico que usa pontos ligados por retas para mostrar como dados mudam ao longo do tempo ou de uma sequência contínua. Ele ajuda a ver tendências, altas e baixas de forma rápida.",
+    "page": 41
+  },
+  {
+    "term": "Gráfico de setores",
+    "definition": "Tipo de gráfico que mostra um diagrama em forma de círculo dividido em fatias. Cada fatia mostra a parte de um dado em relação ao total de 100%. É popularmente chamado de gráfico de pizza.",
+    "page": 41
+  },
+  {
+    "term": "Grandeza",
+    "definition": "É tudo aquilo que pode ser medido ou contado, sendo expressa por um valor numérico e uma unidade de medida. Exemplos incluem comprimento, massa, tempo, velocidade, área e volume. Elas são utilizadas para quantificar e comparar conceitos, permitindo a realização de cálculos e a análise de relações entre diferentes grandezas, como as diretamente e inversamente proporcionais.",
+    "page": 42
+  },
+  {
+    "term": "Grandezas diretamente proporcionais",
+    "definition": "Grandezas que se relacionam de forma que, quando uma aumenta, a outra também aumenta na mesma proporção, e vice-versa. Ou seja, se uma dobra, a outra também dobra; se uma cai pela metade, a outra também cai pela metade.",
+    "page": 42
+  },
+  {
+    "term": "Grandezas inversamente proporcionais",
+    "definition": "Grandezas que se relacionam de forma que, quando uma aumenta, a outra diminui na mesma proporção, e vice-versa. Ou seja, se uma dobra, a outra reduz a metade; se uma reduz a terça parte, a outra triplica.",
+    "page": 42
+  },
+  {
+    "term": "Grau",
+    "definition": "Unidade de medida para ângulos, onde um círculo completo é dividido em 360 partes, ou o maior expoente de uma incógnita em um polinômio ou equação. A interpretação correta depende do contexto: em geometria e trigonometria, refere-se a uma medida angular (1°), enquanto na álgebra, refere-se à ordem de uma equação ou polinômio.",
+    "page": 42
+  },
+  {
+    "term": "Hectare",
+    "definition": "Unidade de medida de área equivalente a 10.000 metros quadrados. Ele representa a área de um quadrado com 100 metros de lado, e é amplamente utilizado para medir grandes terrenos, como na agricultura e no agronegócio.",
+    "page": 43
+  },
+  {
+    "term": "Hectômetro",
+    "definition": "Unidade de medida de comprimento do Sistema Internacional de medidas (SI). É usado raramente no dia a dia, mas pode aparecer em contextos científicos ou de grandes distâncias. 1 hectômetro) = 100 metros.",
+    "page": 43
+  },
+  {
+    "term": "Heptágono",
+    "definition": "Figura geométrica que possui 7 lados e 7 ângulos internos. “Hepta” vem do grego e significa sete e “gono” significa ângulo. Suas propriedades incluem a soma dos ângulos internos que totaliza 900° e a medida de cada ângulo interno é aproximadamente 128,5°.",
+    "page": 43
+  },
+  {
+    "term": "Hexágono",
+    "definition": "Figura geométrica que possui 6 lados e 6 ângulos internos. “Hexa” vem do grego e significa seis e “gono” significa ângulo. Suas propriedades incluem a soma dos ângulos internos que totaliza 720° e a medida de cada ângulo interno é 120°.",
+    "page": 43
+  },
+  {
+    "term": "Hexaedro",
+    "definition": "Poliedro que possui seis faces planas. O exemplo mais famoso e estudado é o cubo (ou hexaedro regular), que tem faces quadradas iguais, mas o termo também engloba outros sólidos geométricos com o mesmo número de faces. (veja cubo)",
+    "page": 44
+  },
+  {
+    "term": "Hipotenusa",
+    "definition": "Maior lado de um triângulo retângulo e é sempre o lado oposto ao ângulo reto o angulo de 90°. Os outros dois lados são chamados de catetos e formam o ângulo reto. (veja triângulo retângulo)",
+    "page": 44
+  },
+  {
+    "term": "Homotetia",
+    "definition": "Transformação geométrica que redimensiona uma figura (ampliando-a ou reduzindo-a) a partir de um ponto fixo, mantendo sua forma e os ângulos.",
+    "page": 44
+  },
+  {
+    "term": "Horizontal",
+    "definition": "refere-se a uma direção paralela ao eixo 𝑥 ou ao horizonte, com inclinação zero.",
+    "page": 44
+  },
+  {
+    "term": "Icosaedro",
+    "definition": "Poliedro com 20 faces. O icosaedro regular é um dos cinco sólidos platônicos, e suas 20 faces são triângulos equiláteros congruentes. Ele é composto por 20 faces, 30 arestas e 12 vértices. Icosa significa vinte e hedro significa face.",
+    "page": 45
+  },
+  {
+    "term": "Icoságono",
+    "definition": "Figura geométrica que possui 20 lados e 20 ângulos internos. “Icosa” vem do grego e significa vinte e “gono” significa ângulo. Suas propriedades incluem a soma dos ângulos internos que totaliza 3240° e a medida de cada ângulo interno é de 162°.",
+    "page": 45
+  },
+  {
+    "term": "Igual",
+    "definition": "Ao contrário do que alguns pensam, o sinal de igual não significa apenas \"dá o resultado\". Ele representa uma relação de equilíbrio e equivalência. Tudo o que está à esquerda do sinal de igual tem o mesmo valor que tudo o que está à direita.",
+    "page": 45
+  },
+  {
+    "term": "Igualdade",
+    "definition": "A igualdade é um conceito fundamental na matemática que representa a equivalência entre duas expressões.",
+    "page": 45
+  },
+  {
+    "term": "Ímpar",
+    "definition": "Número inteiro que não é divisível por 2, ou seja, deixa resto 1 quando dividido por 2. Isso também pode ser verificado pelo último algarismo: um número é ímpar se ele terminar em 1, 3, 5, 7 ou 9.",
+    "page": 46
+  },
+  {
+    "term": "Imprópria",
+    "definition": "Geralmente se refere a uma fração imprópria, que é uma fração onde o numerador (o número de cima) é maior ou igual ao denominador (o número de baixo). Isso significa que a fração representa um número inteiro ou mais do que um inteiro.",
+    "page": 46
+  },
+  {
+    "term": "Incentro",
+    "definition": "Ponto de encontro das três bissetrizes internas de um triângulo. Ele possui a propriedade de estar sempre no interior do triângulo e ser equidistante de todos os lados, sendo o centro da circunferência inscrita no triângulo. (veja bissetriz)",
+    "page": 46
+  },
+  {
+    "term": "Inclinação",
+    "definition": "Medida da taxa de variação de uma reta, indicando o quão íngreme ou plana ela é.",
+    "page": 46
+  },
+  {
+    "term": "Incógnita",
+    "definition": "Valor desconhecido em uma equação que precisa ser determinado para que a igualdade seja verdadeira. Geralmente é representada pela letra “x”.",
+    "page": 46
+  },
+  {
+    "term": "Índice",
+    "definition": "Pequeno número que indica o tipo de raiz (se não houver, é a raiz quadrada); ou simplesmente a razão ou relação entre duas grandezas, como no cálculo do Índice de Massa Corporal (IMC).",
+    "page": 46
+  },
+  {
+    "term": "Índo-arábico",
+    "definition": "Sistema de numeração decimal que usamos",
+    "page": 46
+  },
+  {
+    "term": "Inequação",
+    "definition": "Sentença matemática que usa uma letra para indicar um valor desconhecido e apresenta uma relação de desigualdade. Em vez de um sinal de igualdade, ela emprega símbolos que mostram quando um valor é maior ou menor que outro.",
+    "page": 47
+  },
+  {
+    "term": "Inteiro",
+    "definition": "Número que não tem partes fracionárias ou decimais. O conjunto dos números inteiros inclui os números naturais positivos, o zero e os números negativos.",
+    "page": 47
+  },
+  {
+    "term": "Interno",
+    "definition": "Termo geométrico que descreve uma área delimitada como a região interna de duas retas paralelas, de um ângulo ou de um polígono",
+    "page": 47
+  },
+  {
+    "term": "Interseção",
+    "definition": "Conjunto de elementos que pertencem a dois ou mais conjuntos ao mesmo tempo. É representada pelo símbolo \"∩\" e contém apenas os elementos que são comuns a todos os conjuntos envolvidos.",
+    "page": 47
+  },
+  {
+    "term": "Inverso",
+    "definition": "Valor que, quando multiplicado pelo número original, resulta em 1. Para achar o inverso de uma fração, você troca o numerador com o denominador.",
+    "page": 47
+  },
+  {
+    "term": "Investimento",
+    "definition": "Valor inicial em uma operação financeira que gera retorno ao longo do tempo, geralmente através de juros.",
+    "page": 47
+  },
+  {
+    "term": "Irredutível",
+    "definition": "Algo que não pode ser simplificado ou reduzido ainda mais. O termo é mais comum em referência a frações, onde uma fração irredutível é aquela em que o numerador e o denominador não têm divisores comuns além de 1 (são primos entre si). O processo para encontrar a fração irredutível de qualquer outra fração é dividir o numerador e o denominador pelo seu Máximo Divisor Comum (MDC).",
+    "page": 47
+  },
+  {
+    "term": "Juro",
+    "definition": "Valor cobrado sobre um capital (o dinheiro emprestado ou investido) e pode ser entendido como um \"aluguel\" pelo uso do dinheiro. O juro pode ser simples ou composto.",
+    "page": 48
+  },
+  {
+    "term": "Juro Composto",
+    "definition": "Juros calculados sobre o valor inicial de um investimento ou dívida e sobre os juros já acumulados, criando um efeito de \"juros sobre juros\". Isso significa que o montante total cresce de forma exponencial ao longo do tempo, pois os novos juros são calculados sobre uma base cada vez maior.",
+    "page": 48
+  },
+  {
+    "term": "Juro Simples",
+    "definition": "Acréscimo financeiro calculado apenas sobre o valor inicial de um empréstimo ou investimento, também conhecido como capital. Isso significa que a taxa de juros não é aplicada sobre os juros já acumulados em períodos anteriores, resultando em um crescimento linear do valor total.",
+    "page": 48
+  },
+  {
+    "term": "Lado",
+    "definition": "Um dos elementos que compões uma figura geométrica. Para os polígonos, são segmentos de reta que formam o seu contorno, como um triângulo ou quadrado. Para os ângulos, são semirretas com origem no vértice. Atenção: em figuras tridimensionais, o termo equivalente para as linhas de junção entre as faces é \"aresta”.",
+    "page": 49
+  },
+  {
+    "term": "LAAo",
+    "definition": "Um dos casos de congruência de triângulos. Nesse caso, quando dois triângulos apresentam um lado de mesma medida, um dos ângulos adjacentes a esse lado e o ângulo e o ângulo oposto de mesmo valor, concluímos que esses triângulos são congruentes, sem a necessidade de medir os outros elementos.",
+    "page": 49
+  },
+  {
+    "term": "LAL",
+    "definition": "Um dos casos de congruência de triângulos. Nesse caso, quando dois triângulos apresentam dois lados e o ângulo entre eles de mesma medida, concluímos que esses triângulos são congruentes, sem a necessidade de medir os outros elementos.",
+    "page": 49
+  },
+  {
+    "term": "Largura",
+    "definition": "Medida de um objeto de um lado a outro, de forma perpendicular ao seu comprimento. Geralmente é a dimensão menor de um objeto, enquanto o comprimento é a maior. Por exemplo, a largura de um retângulo é a distância entre seus lados mais curtos, enquanto o comprimento é a distância entre os lados mais longos.",
+    "page": 50
+  },
+  {
+    "term": "Linha plana",
+    "definition": "Qualquer linha, seja ela reta ou curva, que esteja totalmente contida dentro de um único plano.",
+    "page": 50
+  },
+  {
+    "term": "LLL",
+    "definition": "Um dos casos de congruência de triângulos. Nesse caso, quando dois triângulos apresentam os três lados correspondentes de mesma medida, concluímos que esses triângulos são congruentes, sem a necessidade de medir os outros elementos.",
+    "page": 50
+  },
+  {
+    "term": "Losango",
+    "definition": "Quadrilátero com quatro lados de igual comprimento, o que significa que é um paralelogramo com todos os lados são iguais. Suas ´propriedades incluem lados opostos paralelos, ângulos opostos iguais e diagonais que se cruzam",
+    "page": 50
+  },
+  {
+    "term": "Lucro",
+    "definition": "É o ganho financeiro obtido quando o dinheiro que entra (receita) é maior do que o dinheiro que sai (custos e despesas). Em termos simples, o lucro representa o valor que sobra após pagar todos os custos de produção ou de compra de um produto.",
+    "page": 51
+  },
+  {
+    "term": "Malha quadriculada",
+    "definition": "Grade de linhas e colunas que formam quadrados de mesmo tamanho, usada em matemática para calcular áreas e perímetros, localizar pontos em um plano cartesiano e visualizar gráficos e formas geométricas. Cada quadrado pode ser usado como unidade de medida para determinar a área de figuras ou o perímetro do seu contorno.",
+    "page": 52
+  },
+  {
+    "term": "Matemática",
+    "definition": "Palavra de origem grega máthēma, que significa \"aquilo que se aprende\", \"ciência\", \"conhecimento\" ou \"estudo\". O termo evoluiu para mathēmatikós, relativo à aprendizagem, passou pelo latim mathematica e chegou ao português indicando a ciência do raciocínio lógico e abstrato que estuda quantidades, medidas, espaço, estruturas, formas e variações. Ela usa regras precisas para encontrar padrões, resolver problemas e descrever como o mundo e o universo funcionam.",
+    "page": 52
+  },
+  {
+    "term": "Máximo divisor comum (MDC)",
+    "definition": "Maior número inteiro que divide dois ou mais números naturais ao mesmo tempo, resultando sempre em resto zero. Ele representa o maior divisor que é comum a todos os números em questão. Para encontrá-lo, você pode listar todos os divisores de cada número e identificar o maior em comum, ou usar métodos mais eficientes como a decomposição em fatores primos.",
+    "page": 52
+  },
+  {
+    "term": "Média",
+    "definition": "Valor que representa o centro ou o equilíbrio de um grupo de números. Ela resume vários dados em apenas um número. O tipo mais comum é a média aritmética simples, muito usada para calcular nota escolar. Já a média aritmética",
+    "page": 52
+  },
+  {
+    "term": "Mediana",
+    "definition": "Valor central de um conjunto de números quando eles são organizados em ordem crescente ou decrescente. Isso significa que metade dos valores no conjunto é menor que a mediana e a outra metade é maior.",
+    "page": 53
+  },
+  {
+    "term": "Mediana de um triângulo",
+    "definition": "Segmento de reta que sai do vértice ao ponto médio do lado oposto ao vértice. Cada triângulo tem três medianas. O ponto de encontro das medianas é chamado de baricentro. (veja baricentro)",
+    "page": 53
+  },
+  {
+    "term": "Mediatriz",
+    "definition": "Reta perpendicular a um lado do triângulo e o corta em seu ponto médio. A mediatriz não passa obrigatoriamente pelo vértice de um triângulo como a altura, mediana e a bissetriz. O ponto de encontro das mediatrizes de um triângulo é chamado de circuncentro. (veja circuncentro)",
+    "page": 53
+  },
+  {
+    "term": "Medição",
+    "definition": "Ato de comparar uma grandeza com uma unidade de medida padrão para determinar a quantas vezes essa unidade cabe na grandeza.",
+    "page": 54
+  },
+  {
+    "term": "Medida",
+    "definition": "Função que atribui um \"tamanho\" a um conjunto, como seu comprimento, área, volume ou massa. No dia a dia, a medida é expressa através de unidades como metro, litro, ou quilograma, que servem como padrão para quantificar e comparar grandezas.",
+    "page": 54
+  },
+  {
+    "term": "Meio",
+    "definition": "Fração 1/2, representando a metade de uma unidade ou de um valor. Essa fração é obtida ao dividir um número ou um objeto em duas partes iguais, onde o numerador 1 indica que se está considerando apenas uma dessas partes e o denominador 2.",
+    "page": 54
+  },
+  {
+    "term": "Metade",
+    "definition": "Dividir uma quantidade ou um todo em duas partes iguais, o que é o mesmo que dividir por 2. Por exemplo, a metade de 10 é 5, porque 10÷2=5",
+    "page": 54
+  },
+  {
+    "term": "Metro",
+    "definition": "Unidade de medida de comprimento padrão do Sistema Internacional de Unidades (SI), usada para quantificar distâncias. Ele também serve como base para o sistema métrico, possuindo múltiplos (como quilômetro e hectômetro) e submúltiplos (como centímetro e milímetro). É representado pela letra (m)",
+    "page": 54
+  },
+  {
+    "term": "Metro cúbico",
+    "definition": "Unidade de medida de volume no Sistema Internacional de Unidades. Ele mede o espaço tridimensional que um corpo ocupa, correspondendo ao volume de um cubo com 1 metro de comprimento, 1 metro de largura e 1 metro de altura. É representado pela letra (m³).",
+    "page": 54
+  },
+  {
+    "term": "Metro quadrado",
+    "definition": "Unidade de medida de área no Sistema Internacional de Unidades. Ele equivale à área de um quadrado que tem exatamente 1 metro de comprimento em cada um de seus quatro lados. É representado pela letra (m2).",
+    "page": 54
+  },
+  {
+    "term": "Milésimo",
+    "definition": "Uma das mil partes iguais em que um todo foi dividido. É representado como a fração 1/1000 e, em forma decimal, é 0,001. No sistema de números decimais, o milésimo é o terceiro algarismo à direita da vírgula.",
+    "page": 55
+  },
+  {
+    "term": "Milhão",
+    "definition": "Número 1.000.000.",
+    "page": 55
+  },
+  {
+    "term": "Milhar",
+    "definition": "Grupo ou uma quantidade de mil unidades (1.000).",
+    "page": 55
+  },
+  {
+    "term": "Milímetro",
+    "definition": "Unidade de medida de comprimento que corresponde a um milésimo do metro (1 mm = 1/1000 m). É a menor unidade de medida comum do Sistema Métrico, representada por cada pequeno traço entre os centímetros em régua.",
+    "page": 55
+  },
+  {
+    "term": "Mínimo Múltiplo Comum (MMC)",
+    "definition": "Menor número inteiro positivo que é múltiplo de dois ou mais números ao mesmo tempo. É um conceito usado para encontrar um denominador comum em operações com frações ou para resolver problemas práticos, como descobrir quando dois eventos com intervalos diferentes ocorrerão novamente ao mesmo tempo.",
+    "page": 55
+  },
+  {
+    "term": "Minuendo",
+    "definition": "Número do qual se subtrai outro número em uma operação de subtração.",
+    "page": 55
+  },
+  {
+    "term": "Módulo",
+    "definition": "Módulo (ou valor absoluto) de um número é a sua distância em relação ao zero na reta numérica. Essa distância é sempre um valor positivo, por isso, o módulo de um número positivo é ele mesmo, e o módulo de um número negativo é o seu oposto (ou seja, é o mesmo número multiplicado por -1. O módulo é representado por duas barras verticais que envolvem o número, como em |x|.",
+    "page": 55
+  },
+  {
+    "term": "Monômio",
+    "definition": "Expressão algébrica simples, composta por um único termo, que consiste na multiplicação de um número (coeficiente) por uma ou mais variáveis (parte literal).",
+    "page": 55
+  },
+  {
+    "term": "Montante",
+    "definition": "Valor total de uma operação no fim de um tempo. Ele junta o capital com os juros.",
+    "page": 55
+  },
+  {
+    "term": "Multiplicação",
+    "definition": "Operação fundamental que simplifica cálculos longos, é uma forma de fazer adições sucessivas de um mesmo número. O resultado da multiplicação é chamado de produto e os números que são multiplicados são os fatores.",
+    "page": 56
+  },
+  {
+    "term": "Múltiplo",
+    "definition": "Número resultado da multiplicação de um número por um número inteiro, como nos exemplos da tabuada, ou seja, para encontrar os múltiplos de um número, multipliqueo por todos os números inteiros (incluindo o zero).",
+    "page": 56
+  },
+  {
+    "term": "Negativo",
+    "definition": "Qualquer número real menor que zero, representado pelo sinal de menos (−) antes do número.",
+    "page": 57
+  },
+  {
+    "term": "Nona parte",
+    "definition": "Dividir um número por 9, resultando em uma das nove partes iguais em que um todo foi dividido. É o mesmo que multiplicar o número por 1/9.",
+    "page": 57
+  },
+  {
+    "term": "Notação Cientifica",
+    "definition": "Forma de escrever números muito grandes ou muito pequenos, usando a multiplicação de um número por uma potência de 10. Ela simplifica a representação de números, tornando-os mais fáceis de ler, comparar e calcular, sendo amplamente utilizada em ciências como física e química.",
+    "page": 57
+  },
+  {
+    "term": "Nulo",
+    "definition": "Pode se referir a zero (o número), o conjunto vazio ou a algo identicamente nulo (como um polinômio com todos os coeficientes iguais a zero). O termo \"nulo\" é frequentemente usado para expressar a ausência de um elemento, seja ele um número, um conjunto ou uma condição.",
+    "page": 57
+  },
+  {
+    "term": "Numerador",
+    "definition": "número que fica acima do traço de uma fração e representa a quantidade de partes consideradas de um todo. Por exemplo, na fração 5/8, o número 5 é o numerador.",
+    "page": 57
+  },
+  {
+    "term": "Número",
+    "definition": "conceito abstrato que representa uma quantidade, uma ordem ou uma medida. É a ideia por trás do que se conta, como \"três maçãs\", e do que se ordena, como \"o primeiro lugar\". A representação de um número em um sistema de escrita, como o símbolo \"3\" ou a palavra \"três\", é chamada de numeral.",
+    "page": 57
+  },
+  {
+    "term": "Número complexo",
+    "definition": "números que combinam uma parte real e uma parte imaginária, expressos na forma z=a+bi, onde 'a' é a parte real e 'b' é a parte imaginária. Eles foram desenvolvidos para resolver equações que envolvem a raiz quadrada de números negativos, pois i2=-1onde 'i' é a unidade imaginária.",
+    "page": 57
+  },
+  {
+    "term": "Número composto",
+    "definition": "número inteiro positivo maior que 1 que possui mais de dois divisores positivos. Em outras palavras, um número é composto se puder ser dividido exatamente por outro número além de 1 e ele mesmo. Por exemplo, 10 é um número composto porque seus divisores são 1,2,5 e 10.",
+    "page": 58
+  },
+  {
+    "term": "Número decimal",
+    "definition": "Valor não inteiro que possui uma parte inteira e uma parte fracionada, separadas por uma vírgula.",
+    "page": 58
+  },
+  {
+    "term": "Número fracionário",
+    "definition": "Valor que representa uma ou mais partes de um todo que foi dividido em pedaços iguais. (veja fração)",
+    "page": 58
+  },
+  {
+    "term": "Número ímpar",
+    "definition": "Número inteiro que não é divisível por 2, ou seja, ao dividi-lo por 2, o resto da divisão é sempre igual a 1. Os números ímpares são terminados em 1, 3, 5, 7 e 9.",
+    "page": 58
+  },
+  {
+    "term": "Número inteiro",
+    "definition": "Todo número que não tem parte decimal ou fracionária. (veja conjunto dos números inteiros)",
+    "page": 58
+  },
+  {
+    "term": "Número irracional",
+    "definition": "Número real que não pode ser expresso como uma fração simples de dois números inteiros (a/b). Sua representação decimal é infinita e não periódica, ou seja, as casas decimais continuam para sempre sem apresentar um padrão repetitivo.",
+    "page": 58
+  },
+  {
+    "term": "Número misto",
+    "definition": "Um número misto é um número que combina uma parte inteira e uma parte fracionária (uma fração própria).",
+    "page": 58
+  },
+  {
+    "term": "Número natural",
+    "definition": "Número inteiro não negativo usado para contar, ordenar ou quantificar elementos. (veja conjunto dos números naturais)",
+    "page": 58
+  },
+  {
+    "term": "Número negativo",
+    "definition": "Valor real que seja menor do que zero, representado por um sinal de menos (–) à esquerda.",
+    "page": 58
+  },
+  {
+    "term": "Número par",
+    "definition": "Número inteiro que pode ser dividido exatamente por 2, de modo que o resto da divisão seja sempre zero. Os números pares são terminados em 0, 2, 4, 6 e 8.",
+    "page": 58
+  },
+  {
+    "term": "Número primo",
+    "definition": "Número natural maior que 1 que só pode ser dividido por 1 e por ele mesmo. Por exemplo, os números 2, 3, 5, 7 e 11 são primos, pois cada um deles possui apenas dois divisores. Números com mais de dois divisores são chamados de números compostos, enquanto o número 1 não é primo nem composto, pois tem apenas um divisor.",
+    "page": 59
+  },
+  {
+    "term": "Número racional",
+    "definition": "Qualquer número que pode ser expresso como uma fração a/b, onde a e b são números inteiros e b é diferente de zero. Isso inclui todos os números inteiros, frações, decimais finitos e dízimas periódicas.",
+    "page": 59
+  },
+  {
+    "term": "Número real",
+    "definition": "Qualquer número que possa ser representado na reta numérica, sendo a união de todos os números racionais (como inteiros, frações e decimais finitos/dízimas) e irracionais (como 𝜋 e a raiz de 2), representados pelo símbolo R. Eles englobam tanto valores positivos quanto negativos e formam o conjunto mais abrangente de números usado na matemática.",
+    "page": 59
+  },
+  {
+    "term": "Números opostos",
+    "definition": "Também chamado de números simétricos, são números que estão na mesma distância do zero na reta numérica, mas em direção contrária. Para encontrar o oposto de um número, basta trocar o seu sinal. Por exemplo, o oposto de 3 é -3, e o oposto de -5 é 5. O número oposto tem o mesmo valor absoluto, mas sinais opostos; a soma de um número e seu oposto sempre resulta em zero.",
+    "page": 59
+  },
+  {
+    "term": "Números primos entre si",
+    "definition": "Números que têm apenas um divisor em comum: o número 1. Isso significa que o seu máximo divisor comum (MDC) é igual a 1. É importante notar que esses números não precisam ser primos; números compostos como 8 e 9 também podem ser primos entre si, pois seu único divisor comum é o 1.",
+    "page": 59
+  },
+  {
+    "term": "Octaedro",
+    "definition": "Poliedro com oito faces. O octaedro regular é um dos cinco sólidos platônicos. Ele é caracterizado por ter 8 faces pentagonais regulares, 6 vértices e 12 arestas. O nome vem do grego \"octa\" (oito) e \"hedra\" (face ou lado).",
+    "page": 60
+  },
+  {
+    "term": "Octógono",
+    "definition": "Figura geométrica que possui 8 lados e 8 ângulos internos. “Octa” vem do grego e significa oito e “gono” significa ângulo. Suas propriedades incluem a soma dos ângulos internos que totaliza 1080° e a medida de cada ângulo interno é 135°.",
+    "page": 60
+  },
+  {
+    "term": "Oitava parte",
+    "definition": "Dividir um número por 8, resultando em uma das oito partes iguais em que um todo foi dividido. É o mesmo que multiplicar o número por 1/8.",
+    "page": 60
+  },
+  {
+    "term": "Operação",
+    "definition": "Processo que aplica uma regra a um ou mais números (chamados operandos) para produzir um resultado.",
+    "page": 60
+  },
+  {
+    "term": "Operação inversa",
+    "definition": "Operação que desfaz o efeito de outra, permitindo retornar ao valor original. As operações inversas são: adição e subtração; multiplicação e divisão; potenciação e radiciação.",
+    "page": 60
+  },
+  {
+    "term": "Ordem",
+    "definition": "Posição de um algarismo em um número (unidades, dezenas e centenas) ou à sequência correta em que as operações matemáticas devem ser realizadas em uma expressão (ordem das operações).",
+    "page": 61
+  },
+  {
+    "term": "Ordem crescente",
+    "definition": "Organização numérica do menor para o maior número, ou a uma função crescente, onde o valor de f(x) aumenta à medida que (x) aumenta. Em ambos os casos, a ideia principal é um \"aumento\" ou \"crescimento\" contínuo.",
+    "page": 61
+  },
+  {
+    "term": "Ordem decrescente",
+    "definition": "Organização numérica do maior para o menor número, ou a uma função decrescente, onde o valor de f(x) diminui à medida que (x) diminui. É o oposto da ordem crescente.",
+    "page": 61
+  },
+  {
+    "term": "Ordenada",
+    "definition": "Coordenada vertical de um ponto em um sistema de coordenadas cartesianas, também conhecida como o eixo y. Em um par ordenado, a ordenada é o segundo valor. (veja plano cartesiano)",
+    "page": 61
+  },
+  {
+    "term": "Organização retangular",
+    "definition": "Método de contar objetos dispostos em linhas e colunas, formando um retângulo, e que se baseia na multiplicação. Para encontrar o total de itens, multiplica-se o número de linhas pelo número de colunas, ou vice-versa.",
+    "page": 61
+  },
+  {
+    "term": "Origem",
+    "definition": "Ponto de referência central de um sistema de coordenadas, onde os eixos se cruzam e cujos valores são sempre zero.",
+    "page": 61
+  },
+  {
+    "term": "Ortocentro",
+    "definition": "Ponto de interseção das três alturas de um triângulo. Em um triângulo acutângulo, o ortocentro fica no interior; em um triângulo retângulo, coincide com o vértice do ângulo reto; e em um triângulo obtusângulo, fica na parte externa.",
+    "page": 62
+  },
+  {
+    "term": "Par",
+    "definition": "Número inteiro divisível por 2, resultando em um resto zero. Um número par também pode ser identificado pelo seu último dígito, que deve ser 0, 2, 4, 6 ou 8.",
+    "page": 63
+  },
+  {
+    "term": "Parábola",
+    "definition": "Curva geométrica em formato de letra \"U\" ou “∩” que surge como o gráfico de uma função do segundo grau y=ax2+bx+c.",
+    "page": 63
+  },
+  {
+    "term": "Paralelepípedo",
+    "definition": "Sólido geométrico tridimensional cujas seis faces são paralelogramos, sendo que faces opostas são iguais e paralelas. É um tipo de prisma, que pode ser definido como um poliedro com duas bases idênticas e paralelas, conectadas por faces laterais. Um exemplo comum é o paralelepípedo reto-retângulo, onde todas as faces são retângulos e as arestas são perpendiculares às bases.",
+    "page": 63
+  },
+  {
+    "term": "Paralelo",
+    "definition": "Retas, planos ou outros objetos geométricos que nunca se interceptam, mantendo uma distância constante entre si. Em geometria plana, as retas paralelas nunca se cruzam e possuem o mesmo coeficiente angular (inclinação).",
+    "page": 63
+  },
+  {
+    "term": "Paralelogramo",
+    "definition": "Quadrilátero (figura de quatro lados) cujos lados opostos são paralelos e congruentes (têm o mesmo comprimento). Como consequência dessa definição, os ângulos opostos do paralelogramo também são congruentes, e a soma de dois ângulos consecutivos é sempre 180°.",
+    "page": 64
+  },
+  {
+    "term": "Par ordenado",
+    "definition": "Conjunto de dois elementos onde a ordem é importante, representado entre parênteses como (a,b). Ele é usado para localizar um ponto em um plano cartesiano, onde o primeiro elemento é a coordenada no eixo horizontal (eixo x) e o segundo elemento é a coordenada no eixo vertical (eixo y). Isso significa que (1,2) é diferente de (2,1) porque representam posições distintas no plano.",
+    "page": 64
+  },
+  {
+    "term": "Parcela",
+    "definition": "Números que se somam em uma adição. O resultado dessa soma é chamado de soma ou total.",
+    "page": 64
+  },
+  {
+    "term": "Parênteses",
+    "definition": "Indicam que as operações dentro deles devem ser realizadas primeiro, alterando a ordem natural das operações. Eles são usados para agrupar números e garantir que uma expressão seja resolvida corretamente, seguindo as regras de prioridade de operações.",
+    "page": 64
+  },
+  {
+    "term": "Pentágono",
+    "definition": "Um pentágono é uma figura geométrica que possui 5 lados e 5 ângulos internos. “Penta” vem do grego e significa cinco e “gono” significa ângulo. Suas propriedades incluem a soma dos ângulos internos que totaliza 540º e a medida de cada ângulo interno é 108º.",
+    "page": 65
+  },
+  {
+    "term": "Perímetro",
+    "definition": "Soma das medidas de todos os lados de uma figura geométrica plana, representando o comprimento do seu contorno. Para calcular o perímetro, é preciso somar o comprimento de cada um dos lados da figura, usando uma unidade de medida de comprimento, como centímetros ou metros.",
+    "page": 65
+  },
+  {
+    "term": "Período",
+    "definition": "Sequência de algarismos que se repete infinitamente em uma dízima periódica ou o intervalo de repetição de uma função periódica.",
+    "page": 65
+  },
+  {
+    "term": "Perpendicular",
+    "definition": "Retas que se cruzam formando um ângulo reto, que mede 90 graus. Esse conceito não se aplica apenas a retas, mas também a vetores e planos.",
+    "page": 65
+  },
+  {
+    "term": "Pi",
+    "definition": "Constante matemática que representa a razão entre o comprimento da circunferência de um círculo e o seu diâmetro. É um número irracional, o que significa que possui infinitas casas decimais que não se repetem, e seu valor aproximado é 3,14159. É indicado pelo símbolo 𝜋.",
+    "page": 66
+  },
+  {
+    "term": "Pirâmide",
+    "definition": "Poliedro com uma base poligonal e faces laterais triangulares que se encontram em um único vértice comum. As arestas laterais conectam os vértices da base ao vértice superior, e o número de faces laterais triangulares é igual ao número de lados do polígono da base. As pirâmides são classificadas pela forma do polígono de sua base (triangular, quadrangular, pentagonal, etc.).",
+    "page": 66
+  },
+  {
+    "term": "Planificação",
+    "definition": "Ato de desdobrar um sólido geométrico, (tridimensional) em uma figura plana (bidimensional). É como abrir uma caixa de papelão para que ela fique esticada em uma superfície plana. A Planificação representa todas as faces que compõem a superfície do sólido.",
+    "page": 66
+  },
+  {
+    "term": "Plano",
+    "definition": "Ente geométrico primitivo e infinito, bidimensional, que pode ser visualizado como uma superfície plana e ilimitada, como o chão ou a parede de uma sala. Ele é formado por um conjunto infinito de retas que se estendem em todas as direções, sem curvas. Três pontos não colineares são suficientes para definir um plano.",
+    "page": 67
+  },
+  {
+    "term": "Plano cartesiano",
+    "definition": "Sistema de coordenadas que utiliza duas retas numéricas perpendiculares, o eixo x (abscissas) e o eixo y (ordenadas), para localizar qualquer ponto em um espaço bidimensional. Ele foi criado por René Descartes e é fundamental para representar graficamente pontos, linhas e figuras geométricas, sendo representado por pares ordenados (x,y).",
+    "page": 67
+  },
+  {
+    "term": "Polegada",
+    "definition": "Unidade de medida de comprimento do sistema imperial, equivalente a exatos 2,54 centímetros (ou 25,4 milímetros). Seu símbolo é in ou aspas duplas (\"), e ela é frequentemente utilizada em contextos de engenharia, design e fabricação, diferindo do Sistema Internacional de Unidades (SI) que usa o metro.",
+    "page": 67
+  },
+  {
+    "term": "Poliedro",
+    "definition": "Sólido geométrico tridimensional cujas faces são todas planas. Esses sólidos possuem três elementos principais: vértices (pontos), arestas (segmentos de reta) e faces (polígonos). Exemplos de poliedros incluem o cubo, o tetraedro (pirâmide de base triangular) e prismas, enquanto esferas e cilindros não são poliedros por serem arredondados.",
+    "page": 67
+  },
+  {
+    "term": "Polígono",
+    "definition": "figura geométrica plana, fechada e composta por segmentos de reta que não se cruzam. A palavra \"polígono\" vem do grego, significando \"muitos ângulos\". A classificação dos polígonos é feita de acordo com o número de lados, como triângulos (3 lados), quadriláteros (4 lados) e pentágonos (5 lados).",
+    "page": 68
+  },
+  {
+    "term": "Polígono convexo",
+    "definition": "Polígono em que todos os ângulos internos medem menos de 180° e todo segmento de reta ligando dois pontos internos permanece totalmente dentro do polígono. Essencialmente, as \"pontas\" do polígono apontam para fora, e não para dentro, como em um polígono côncavo.",
+    "page": 68
+  },
+  {
+    "term": "Polígono irregular",
+    "definition": "Figura geométrica que não tem todos os lados e ângulos iguais. Isso significa que pelo menos um de seus lados ou ângulos tem uma medida diferente dos outros. Por exemplo, um retângulo (com lados opostos iguais, mas lados adjacentes diferentes) e um triângulo escaleno (com todos os três lados e ângulos diferentes) são polígonos irregulares.",
+    "page": 68
+  },
+  {
+    "term": "Polígono regular",
+    "definition": "Polígono no qual todos os seus lados têm a mesma medida (equilátero) e todos os seus ângulos internos têm a mesma medida (equiângulo). O quadrado, o triângulo equilátero e o hexágono regular são exemplos de polígonos regulares.",
+    "page": 69
+  },
+  {
+    "term": "Polinômio",
+    "definition": "Expressão algébrica formada pela soma de monômios finitos, usando apenas as operações de adição, subtração e multiplicação de variáveis e coeficientes. A palavra vem do grego \"poli\" (muitos) e do latim \"nomios\" (termos). É formado por um coeficiente numérico e uma parte literal, onde encontra-se a variável.",
+    "page": 69
+  },
+  {
+    "term": "Ponto",
+    "definition": "Localização exata no espaço sem dimensões (comprimento, largura ou altura). Ele é um conceito fundamental e primitivo na geometria, usado para definir a posição de outros objetos como retas e planos. Os pontos são geralmente representados por letras maiúsculas, como A ou B.",
+    "page": 69
+  },
+  {
+    "term": "Ponto médio",
+    "definition": "Ponto exato que divide um segmento de reta em duas partes de igual comprimento, ou seja, o ponto médio é exatamente a metade do segmento de reta.",
+    "page": 69
+  },
+  {
+    "term": "Porcentagem",
+    "definition": "Forma de representar uma parte de um todo dividido em 100 partes iguais, utilizando o símbolo %. Ela pode ser escrita como uma fração com denominador 100 ou como um número decimal. A palavra \"porcentagem\" significa \"por cento\" ou \"para cada cem\".",
+    "page": 70
+  },
+  {
+    "term": "Possibilidade",
+    "definition": "Qualquer resultado que pode acontecer em uma situação incerta ou aleatória",
+    "page": 70
+  },
+  {
+    "term": "Potência",
+    "definition": "Valor obtido como resultado de uma potenciação.",
+    "page": 70
+  },
+  {
+    "term": "Potenciação",
+    "definition": "Operação de multiplicação de um número (base) por ele mesmo, um número de vezes indicado por outro número (expoente). Essa operação simplifica a escrita de multiplicações repetidas, como 2.2.2.2, que pode ser escrita como 24. Nesse caso, o resultado, ou seja, a potência é 16.",
+    "page": 70
+  },
+  {
+    "term": "Poupança",
+    "definition": "Forma tradicional e segura de investimento muito utilizada pelos brasileiros. Criada para incentivar as pessoas a guardar dinheiro, ela é oferecida por praticamente todos os bancos e instituições financeiras. O funcionamento é simples: o valor depositado gera rendimentos mensais de acordo com uma taxa de juros determinada pelo governo.",
+    "page": 70
+  },
+  {
+    "term": "Prazo",
+    "definition": "Período em que um capital é aplicado ou financiado, necessário para que ele gere juros e atinja um montante final. Ele pode ser expresso em diferentes unidades de tempo, como meses ou anos, e é um dos três elementos básicos da matemática financeira, junto com o capital inicial e a taxa de juros.",
+    "page": 70
+  },
+  {
+    "term": "Prejuízo",
+    "definition": "Perda financeira ou material que pode ocorrer em diversas situações, incluindo negócios, investimentos e decisões pessoais.",
+    "page": 70
+  },
+  {
+    "term": "Princípio aditivo",
+    "definition": "É um conceito matemático que estabelece a soma das possibilidades de eventos mutuamente exclusivos para encontrar o total de resultados. Ele é usado em problemas de contagem onde a escolha é feita usando o conectivo \"ou\", que indica a soma das opções de cada categoria separada. Um exemplo clássico é calcular o total de opções ao escolher entre diferentes categorias de itens, como a soma de sucos e frutas disponíveis.",
+    "page": 71
+  },
+  {
+    "term": "Princípio Multiplicativo",
+    "definition": "Também conhecido como Princípio Fundamental da Contagem (PFC), é uma ferramenta básica da matemática (especificamente na Análise Combinatória) utilizada para determinar o número total de possibilidades de um evento composto por múltiplas etapas sucessivas e independentes.",
+    "page": 71
+  },
+  {
+    "term": "Prismas",
+    "definition": "Sólido geométrico com duas bases poligonais congruentes (iguais em forma e tamanho) e paralelas, unidas por faces laterais que são paralelogramos. A forma da base determina o nome do prisma (por exemplo, prisma triangular, quadrangular, pentagonal). A altura é a distância perpendicular entre as duas bases.",
+    "page": 71
+  },
+  {
+    "term": "Probabilidade",
+    "definition": "Chance de um evento aleatório acontecer, expressa como um número entre 0 e 1 (ou 0% e 100%). Ela quantifica a incerteza calculando-se a razão entre o número de resultados favoráveis e o número total de resultados possíveis em um experimento. Por exemplo, a probabilidade de",
+    "page": 71
+  },
+  {
+    "term": "Problema",
+    "definition": "Questão ou desafio que exige a aplicação de raciocínio lógico e conhecimento matemático para ser resolvido. Diferentemente de um exercício, que envolve a aplicação de métodos já conhecidos, um problema demanda criatividade e pode não ter uma solução imediata ou única. Os problemas podem ter uma ou mais soluções, ou até mesmo nenhuma, e surgem em situações tanto concretas quanto abstratas.",
+    "page": 72
+  },
+  {
+    "term": "Produto",
+    "definition": "Resultado da operação de multiplicação de dois ou mais números, chamados de fatores.",
+    "page": 72
+  },
+  {
+    "term": "Produto da soma pela diferença",
+    "definition": "Expressão algébrica que representa a multiplicação da soma de dois termos pela diferença entre eles, como (a+b).(a-b). Ele é expandido para a2-b2, que é o primeiro termo ao quadrado menos o quadrado do segundo termo, ou seja, é um produto notável.",
+    "page": 72
+  },
+  {
+    "term": "Produtos notáveis",
+    "definition": "São expressões algébricas que ocorrem frequentemente em cálculos e, por isso, suas fórmulas são memorizadas para agilizar a resolução de problemas, evitando a multiplicação termo a termo",
+    "page": 72
+  },
+  {
+    "term": "Projeção",
+    "definition": "Em geometria, a projeção refere-se à representação de um objeto tridimensional ou bidimensional em um plano ou linha. É como a \"sombra\" de um objeto sobre uma superfície, determinada pela direção dos raios de luz (ou linhas de projeção). O tipo mais comum é a projeção ortogonal, onde as linhas de projeção são perpendiculares ao plano de projeção. Esse conceito é fundamental em desenho técnico e geometria analítica para representar formas e calcular distâncias e ângulos.",
+    "page": 72
+  },
+  {
+    "term": "Proporção",
+    "definition": "Igualdade entre duas ou mais razões (divisões). Ela expressa uma relação constante entre valores, indicando que, ao mudar uma quantidade, a outra muda na mesma proporção.",
+    "page": 73
+  },
+  {
+    "term": "Proporcional",
+    "definition": "Significa que duas ou mais grandezas têm uma relação consistente entre si. Se uma grandeza aumenta, a outra também aumenta na mesma proporção (diretamente proporcional), ou se uma aumenta, a outra diminui na proporção inversa (inversamente proporcional).",
+    "page": 73
+  },
+  {
+    "term": "Proporcionalidade",
+    "definition": "relação entre duas ou mais grandezas, onde a variação em uma implica uma variação correspondente na outra. Essa relação pode ser direta, onde as grandezas variam na mesma proporção (se uma dobra, a outra também dobra), ou inversa, onde a variação é oposta (se uma dobra, a outra cai pela metade). É um conceito fundamental para resolver problemas práticos por meio da regra de três e em diversas áreas como física, geometria e engenharia.",
+    "page": 73
+  },
+  {
+    "term": "Propriedade",
+    "definition": "regra que define o comportamento de operações como adição e multiplicação, permitindo simplificar cálculos e provar teoremas. As propriedades mais comuns incluem a comutativa (a ordem dos números não altera o resultado), a associativa (a ordem em que os números são agrupados não muda o resultado) e a distributiva (que conecta multiplicação com adição ou subtração).",
+    "page": 73
+  },
+  {
+    "term": "Quadrado",
+    "definition": "Quadrilátero (figura de quatro lados) com os quatro lados de mesmo comprimento e quatro ângulos retos (90°). Ele é um polígono regular, o que significa que todos os seus lados e ângulos são congruentes (têm a mesma medida).",
+    "page": 74
+  },
+  {
+    "term": "Quadrado da diferença",
+    "definition": "Expressão algébrica que representa a subtração de dois termos elevada ao quadrado, como (a-b)2. Ele é expandido para a2-2ab+b2, que é o primeiro termo ao quadrado, menos duas vezes o primeiro termo vezes o segundo, mais o quadrado do segundo termo, ou seja, é um produto notável.",
+    "page": 74
+  },
+  {
+    "term": "Quadrado da soma",
+    "definition": "Expressão algébrica que representa a soma de dois termos elevada ao quadrado, como (a+b)2. Ele é expandido para a2+2ab+b2, que é o primeiro termo ao quadrado, mais duas vezes o primeiro termo vezes o segundo, mais o quadrado do segundo termo, ou seja, é um produto notável.",
+    "page": 74
+  },
+  {
+    "term": "Quadrado perfeito",
+    "definition": "Número natural que pode ser expresso como o resultado da multiplicação de outro número natural por ele mesmo, ou seja, um número que tem uma raiz quadrada exata",
+    "page": 74
+  },
+  {
+    "term": "Quadriláteros",
+    "definition": "Polígono que possui quatro lados, quatro vértices e quatro ângulos. A palavra é composta por \"quadri\" (quatro) e \"láteros\" (lados), significando literalmente \"quatro lados”. A soma de seus ângulos internos é sempre igual a 360º.",
+    "page": 74
+  },
+  {
+    "term": "Quádruplo",
+    "definition": "Quatro vezes um determinado número, ou seja, o resultado da multiplicação de um número por quatro.",
+    "page": 75
+  },
+  {
+    "term": "Quantidade",
+    "definition": "algo que pode ser medido ou contado, seja uma grandeza física como peso ou volume, um número de pessoas ou coisas, ou uma porção de um todo.",
+    "page": 75
+  },
+  {
+    "term": "Quarta parte",
+    "definition": "Parcela ou divisão que corresponde a um quarto (1/4) do valor.",
+    "page": 75
+  },
+  {
+    "term": "Quilograma",
+    "definition": "Unidade de medida de massa no Sistema Internacional de Unidades (SI), que equivale a mil gramas.",
+    "page": 75
+  },
+  {
+    "term": "Quilometro",
+    "definition": "Unidade de medida de comprimento no Sistema Internacional de Unidades (SI), que representa 1.000 metros, ou seja, 1 quilômetro (1km) é igual a mio metros (1.000 m). A palavra \"quilômetro\" combina o prefixo grego \"quilo\" (mil) com \"metro\", sendo usada principalmente para medir grandes distâncias, como a distância entre cidades.",
+    "page": 75
+  },
+  {
+    "term": "Quinta parte",
+    "definition": "Dividir um número por 5, resultando em uma das cinco partes iguais em que um todo foi dividido. É o mesmo que multiplicar o número por 1/5.",
+    "page": 75
+  },
+  {
+    "term": "Quíntuplo",
+    "definition": "Equivale a ter cinco vezes uma determinada quantidade, ou seja, multiplicar um número por 5.",
+    "page": 75
+  },
+  {
+    "term": "Quociente",
+    "definition": "Resultado de uma divisão, indicando quantas vezes um número (o divisor) cabe em outro número (o dividendo). Ele é a resposta final de uma operação de divisão e pode ser um número inteiro ou um número decimal.",
+    "page": 75
+  },
+  {
+    "term": "Racionalização",
+    "definition": "Processo matemático usado para remover radicais (raízes) do denominador de uma fração, transformando-o em um número racional (inteiro ou fracionário) sem alterar o valor da expressão original. Isso é feito multiplicando o numerador e o denominador por um termo apropriado para eliminar a raiz do denominador, criando uma fração equivalente.",
+    "page": 76
+  },
+  {
+    "term": "Radical",
+    "definition": "Símbolo usado na operação de radiciação, que é a operação inversa da potenciação. O radical encontra um número que, multiplicado por si mesmo um certo número de vezes (o índice), resulta no número dentro dele (o radicando). Por exemplo, na raiz quadrada de 9 (√9), o radical é o símbolo √ , o radicando é 9, e o resultado (a raiz) é 3, pois 3×3=9",
+    "page": 76
+  },
+  {
+    "term": "Radicando",
+    "definition": "Número que está dentro do símbolo de radical (√) e do qual se deseja extrair uma raiz. Por exemplo, no caso da raiz quadrada de 100 (√100) o radicando é o número 100. Ele é o resultado da operação de radiciação.",
+    "page": 76
+  },
+  {
+    "term": "Radiciação",
+    "definition": "operação matemática usada para encontrar a raiz de um número, funcionando como o inverso da potenciação. Em termos simples, ela descobre qual número multiplicado por ele mesmo, um determinado número de vezes, resulta no valor inicial",
+    "page": 76
+  },
+  {
+    "term": "Raio",
+    "definition": "Segmento de reta que liga o centro de uma circunferência ou de uma esfera até qualquer ponto da sua borda.",
+    "page": 76
+  },
+  {
+    "term": "Raiz",
+    "definition": "Resultado de uma operação de radiciação (como a raiz quadrada) ou o valor que torna uma equação igual a zero (como a raiz de uma função).",
+    "page": 77
+  },
+  {
+    "term": "Raiz cúbica",
+    "definition": "Valor que, ao ser multiplicado por si mesmo três vezes, resulta nesse número. Por exemplo, a raiz cúbica de 27 (√27 3 ) é 3, pois 3.3.3=27. A raiz cúbica é uma operação inversa da potenciação com expoente 3.",
+    "page": 77
+  },
+  {
+    "term": "Raiz da equação",
+    "definition": "Valor (ou um conjunto de valores) que, ao substituir a incógnita (a letra, como \"x\"), torna a igualdade da equação verdadeira. Em outras palavras, é a solução da equação, fazendo com que o lado esquerdo da igualdade seja igual ao lado direito.",
+    "page": 77
+  },
+  {
+    "term": "Raiz quadrada",
+    "definition": "Valor que, ao ser multiplicado por si mesmo duas vezes, resulta nesse número. Por exemplo, a raiz quadrada de 16 (√16) é 4, pois 4.4=16. A raiz quadrada é uma operação inversa da potenciação com expoente 2.",
+    "page": 77
+  },
+  {
+    "term": "Razão",
+    "definition": "Comparação ou a relação existente entre duas quantidades (ou grandezas) por meio de uma divisão. A palavra \"razão\" vem do latim \"ratio\", que significa divisão. Uma razão expressa quantas vezes uma quantidade contém outra ou qual é a relação proporcional entre elas.",
+    "page": 77
+  },
+  {
+    "term": "Redução",
+    "definition": "O termo refere-se a diversos conceitos, dependendo da área de estudo (geometria, álgebra, aritmética). Em geral, significa tornar algo menor, mais simples ou equivalente em valor, mas com uma representação diferente.",
+    "page": 77
+  },
+  {
+    "term": "Regra de três",
+    "definition": "Método matemático para encontrar um valor desconhecido x a partir de outros três valores, quando há uma relação de proporcionalidade (direta ou inversa) entre duas grandezas. Existem dois tipos: a simples, que lida com duas grandezas, e a composta, que envolve três ou mais grandezas.",
+    "page": 78
+  },
+  {
+    "term": "Régua",
+    "definition": "Instrumento de medição e desenho com escala graduada.",
+    "page": 78
+  },
+  {
+    "term": "Relação de Euler",
+    "definition": "Fórmula matemática que estabelece uma relação entre o número de faces, vértices e arestas de um poliedro. É aplicada a todos os poliedros convexos (aqueles que não têm \"entradas\" ou \"dobras para dentro\"). A fórmula mostra uma propriedade fundamental dos poliedros: o resultado da operação V−A+F é sempre igual a 2, onde V é o número de vértices, A é o número de arestas e F é o número de faces do poliedro.",
+    "page": 78
+  },
+  {
+    "term": "Relação métrica",
+    "definition": "Equações que conectam as medidas de lados, alturas e projeções de figuras geométricas, especialmente triângulos retângulos e polígonos regulares. Elas servem para calcular medidas desconhecidas de um triângulo ou figura a partir de outras medidas já conhecidas.",
+    "page": 79
+  },
+  {
+    "term": "Resto",
+    "definition": "Número que sobra após uma divisão de números inteiros que não é exata. É o valor que não pode ser dividido igualmente entre os grupos, sendo sempre menor que o divisor ou o resultado da subtração.",
+    "page": 79
+  },
+  {
+    "term": "Reta",
+    "definition": "Linha unidimensional, infinita e sem curvas, composta por infinitos pontos alinhados. Ela se estende indefinidamente em duas direções opostas e não possui começo nem fim. Por dois pontos distintos passa apenas uma única reta.",
+    "page": 79
+  },
+  {
+    "term": "Reta numérica",
+    "definition": "Linha reta onde os números reais são representados em ordem e com distâncias iguais entre os inteiros. O ponto central é o zero (origem), com os números positivos à direita (ou acima, se for vertical) e os negativos à esquerda (ou abaixo). Ela serve para visualizar e comparar números, além de facilitar operações básicas.",
+    "page": 79
+  },
+  {
+    "term": "Reta tangente",
+    "definition": "Reta que \"toca\" uma curva em apenas um ponto, tendo a mesma inclinação que a curva naquele ponto específico. Intuitivamente, é a reta que \"segue a direção\" da curva naquele ponto, sem cruzá-la imediatamente.",
+    "page": 79
+  },
+  {
+    "term": "Retângulo",
+    "definition": "Quadrilátero (figura com quatro lados) que possui os quatro ângulos internos retos 90° e os lados opostos paralelos e de mesmo comprimento. É um tipo de paralelogramo, e um quadrado é um caso especial de retângulo onde todos os lados têm a mesma medida.",
+    "page": 80
+  },
+  {
+    "term": "Retas coincidentes",
+    "definition": "Retas que ocupam a mesma posição no espaço, ou seja, são a mesma reta e, portanto, possuem todos os seus pontos em comum. Elas têm a mesma inclinação e passam pelos mesmos pontos.",
+    "page": 80
+  },
+  {
+    "term": "Retas Paralelas",
+    "definition": "Retas que nunca se encontram porque estão sempre à mesma distância uma da outra em um mesmo plano. Elas nunca se interceptam, mantêm a direção e têm o mesmo coeficiente angular. (veja paralelo)",
+    "page": 80
+  },
+  {
+    "term": "Retas perpendiculares",
+    "definition": "Retas que se cruzam em um ângulo reto (90º). Quando duas retas são perpendiculares, elas formam quatro ângulos iguais de 90º no ponto de interseção. O oposto das retas perpendiculares são as retas paralelas, que nunca se cruzam. (veja perpendicular)",
+    "page": 80
+  },
+  {
+    "term": "Rotação",
+    "definition": "Transformação geométrica que gira uma figura ou um objeto em torno de um ponto fixo chamado centro de rotação.",
+    "page": 80
+  },
+  {
+    "term": "Saldo",
+    "definition": "Resultado de um cálculo, geralmente relacionado a valores financeiros. Ele pode ser: a diferença entre os valores que entram (créditos) e os que saem (débitos) de uma conta. O resultado de uma conta, podendo ser devedor (quando os débitos superam os créditos) ou credor (quando os créditos superam os débitos) ou uma liquidação ou desconto em mercadorias para vender o estoque restante.",
+    "page": 81
+  },
+  {
+    "term": "Século",
+    "definition": "Medida de tempo correspondente à um período de cem anos.",
+    "page": 81
+  },
+  {
+    "term": "Segmento de reta",
+    "definition": "Parte de uma reta que possui dois pontos finais definidos, sendo, portanto, uma porção finita. É um objeto geométrico com um começo e um fim, diferentemente da reta infinita ou da semirreta. A representação matemática de um segmento de reta é feita indicando as suas extremidades com letras maiúsculas, como AB, e colocando um traço horizontal sobre as letras (𝐴𝐵 ̅̅̅̅).",
+    "page": 81
+  },
+  {
+    "term": "Segmentos colineares",
+    "definition": "Segmentos de reta que pertencem à mesma reta ou são alinhados nela. Isso significa que, mesmo que os segmentos não se toquem, eles podem ser traçados sobre a mesma linha. Eles podem ou não ser consecutivos (terem um ponto em comum).",
+    "page": 81
+  },
+  {
+    "term": "Segmentos consecutivos",
+    "definition": "Segmentos de reta que compartilham um ponto em comum, como a extremidade final de um sendo o ponto de início do outro. Por exemplo, o segmento 𝐴𝐵 e o segmento 𝐵𝐶 são consecutivos porque ambos compartilham o ponto 𝐵.",
+    "page": 81
+  },
+  {
+    "term": "Semelhança",
+    "definition": "Relação entre duas figuras geométricas que possuem o mesmo formato, mas podem ter tamanhos diferentes.",
+    "page": 82
+  },
+  {
+    "term": "Semirreta",
+    "definition": "É uma linha que possui um ponto de origem definido e se estende infinitamente em apenas uma direção.",
+    "page": 82
+  },
+  {
+    "term": "Seno",
+    "definition": "Razão trigonométrica entre o cateto oposto a um ângulo e a hipotenusa em um triângulo retângulo. Em outras palavras, é o resultado da divisão da medida do cateto oposto pela medida da hipotenusa.",
+    "page": 82
+  },
+  {
+    "term": "Sentença matemática",
+    "definition": "Afirmação que contém números, sinais operacionais e um sinal de igual (=) ou desigualdade (>, <, ≤, ≥), podendo ser verdadeira ou falsa.",
+    "page": 83
+  },
+  {
+    "term": "Sequência",
+    "definition": "Lista ordenada de objetos (como números) que seguem um padrão lógico, podendo ser finita ou infinita. Cada elemento na lista é chamado de termo, e a sequência pode ser definida por uma regra, uma fórmula explícita ou uma relação de recorrência. Exemplos comuns incluem a progressão aritmética (PA), progressão geométrica (PG) e a sequência de Fibonacci.",
+    "page": 83
+  },
+  {
+    "term": "Sequência recursiva",
+    "definition": "Sequência numérica onde cada termo é definido com base em um ou mais termos que o antecedem. Para encontrar um termo, é preciso usar os termos anteriores seguindo uma regra ou fórmula de recorrência, como acontece com a sequência de Fibonacci, onde cada número é a soma dos dois anteriores (1, 1, 2, 3, 5...).",
+    "page": 83
+  },
+  {
+    "term": "Sétima parte",
+    "definition": "Dividir um número por 7, resultando em uma das sete partes iguais em que um todo foi dividido. É o mesmo que multiplicar o número por 1/7.",
+    "page": 83
+  },
+  {
+    "term": "Sexta parte",
+    "definition": "Dividir um número por 6, resultando em uma das seis partes iguais em que um todo foi dividido. É o mesmo que multiplicar o número por 1/6.",
+    "page": 83
+  },
+  {
+    "term": "Símbolo",
+    "definition": "Elementos (como figuras, letras ou sinais) que representam objetos, operações, relações e ideias de forma concisa, universal e simplificada, facilitando a comunicação e a escrita. Eles funcionam como uma linguagem própria, que permite expressar conceitos complexos e realizar cálculos de maneira padronizada, independentemente da língua falada.",
+    "page": 83
+  },
+  {
+    "term": "Simetria",
+    "definition": "Propriedade de uma figura permanecer inalterada após uma transformação, como reflexão, rotação ou translação. Isso significa que uma figura simétrica pode ser dividida",
+    "page": 83
+  },
+  {
+    "term": "Simplificação",
+    "definition": "Processo de tornar uma expressão, como uma fração ou equação, mais simples sem alterar seu valor. Isso geralmente envolve dividir o numerador e o denominador pelo maior divisor comum, resultando em uma forma mais fácil de entender, conhecida como \"fração irredutível\".",
+    "page": 84
+  },
+  {
+    "term": "Sinais de associação",
+    "definition": "Símbolos usados para organizar expressões numéricas e definir a ordem exata em que os cálculos devem ser realizados. Os três principais sinais de associação são: •",
+    "page": 84
+  },
+  {
+    "term": "Sinal",
+    "definition": "Código que determina a direção (positivo/negativo) ou a ação (somar/subtrair/multiplicar/dividir) dentro de uma expressão matemática.",
+    "page": 84
+  },
+  {
+    "term": "Sistema de equações",
+    "definition": "Conjunto de duas ou mais equações com as mesmas incógnitas que precisam ser resolvidas juntas.",
+    "page": 84
+  },
+  {
+    "term": "Sistema de numeração",
+    "definition": "Conjunto de regras e símbolos (algarismos) para representar números de forma consistente e organizada. O sistema mais comum é o decimal (base 10), que utiliza dez algarismos (0,1,2,3,4,5,6,7,8,9).",
+    "page": 85
+  },
+  {
+    "term": "Sistema de numeração posicional",
+    "definition": "Sistema que o valor de cada algarismo muda de acordo com a posição (ou ordem) que ele ocupa no número. O sistema de numeração decimal, que usamos no dia a dia, é um exemplo disso. Nele, usamos dez símbolos (0 a 9) e cada casa vale 10 vezes mais do que a casa logo à sua direita.",
+    "page": 85
+  },
+  {
+    "term": "Sistema métrico decimal",
+    "definition": "Sistema de medidas unificado em que as unidades aumentam ou diminuem em potências de 10, tendo o metro como base principal.",
+    "page": 85
+  },
+  {
+    "term": "Sólidos Geométricos",
+    "definition": "Figura espacial tridimensional que possui comprimento, largura e altura. Esses sólidos ocupam espaço e possuem volume, diferentemente das figuras planas que só têm duas dimensões. Eles se dividem em dois grupos principais: poliedros (com faces planas) e corpos redondos (com superfícies arredondadas).",
+    "page": 85
+  },
+  {
+    "term": "Solução",
+    "definition": "Valor(es) ou conjunto de valores que, quando substituídos nas incógnitas de uma equação, inequação ou sistema de equações, tornam a igualdade (ou desigualdade) uma afirmação verdadeira.",
+    "page": 85
+  },
+  {
+    "term": "Soma",
+    "definition": "resultado da operação de adição, que consiste em combinar dois ou mais números para obter um único total. Ela é representada pelo símbolo \"+\" e é uma das quatro operações aritméticas básicas.",
+    "page": 85
+  },
+  {
+    "term": "Soroban",
+    "definition": "Instrumento de cálculo feito de madeira ou plástico, composto por hastes verticais que contêm contas deslizantes e uma barra divisória horizontal. Ele contém duas partes, a parte superior estão as contas que valem 5 e a parte inferior as contas que valem 1.",
+    "page": 86
+  },
+  {
+    "term": "Subtração",
+    "definition": "Operação matemática básica que tem como objetivo diminuir uma quantidade de outra, retirar, comparar ou encontrar a diferença entre dois números. Ela é a operação inversa da adição e é representada pelo sinal de menos (-)",
+    "page": 86
+  },
+  {
+    "term": "Subtraendo",
+    "definition": "Número que é subtraído de outro na operação de subtração",
+    "page": 86
+  },
+  {
+    "term": "Sucessor",
+    "definition": "Número que vem imediatamente depois dele, ou seja, o número obtido ao adicionar 1 ao número original.",
+    "page": 86
+  },
+  {
+    "term": "Superfície",
+    "definition": "Objeto de duas dimensões (uma \"variedade 2dimensional\") que pode ser plano, curvo ou irregular, como o plano ou uma esfera. Ela pode ser entendida como a generalização de um plano e, em contextos mais abstratos, é definida como um espaço topológico onde um ponto se move em duas direções. Já a área de superfície é a medida da área total que cobre a superfície externa de um objeto tridimensional.",
+    "page": 86
+  },
+  {
+    "term": "Tabela",
+    "definition": "Forma organizada de dispor dados ou informações em uma estrutura de linhas e colunas. A principal função de uma tabela é organizar e sintetizar grandes quantidades de dados numéricos ou textuais, tornando-os mais fáceis de visualizar e entender. Frequentemente, os dados organizados em tabelas servem como referência para a construção de gráficos (de barras, setores, linhas, etc.), que oferecem uma representação visual alternativa das mesmas informações.",
+    "page": 87
+  },
+  {
+    "term": "Tabuada",
+    "definition": "Tabela que organiza os resultados das operações matemáticas básicas (adição, subtração, multiplicação e divisão) com os números de 1 a 10, servindo como ferramenta para facilitar cálculos e o aprendizado da matemática. Ela é fundamental para desenvolver o raciocínio lógico e agilizar cálculos mais complexos.",
+    "page": 87
+  },
+  {
+    "term": "Tangente",
+    "definition": "Razão trigonométrica entre o comprimento do cateto oposto a esse ângulo e o comprimento do cateto adjacente.",
+    "page": 87
+  },
+  {
+    "term": "Tangram",
+    "definition": "Quebra-cabeça geométrico de origem chinesa composto por sete peças chamadas de tans. As peças do tangram são formadas a partir da divisão de um único quadrado em sete figuras planas, sendo: • 5 triângulos (2 grandes, 1 médio e 2 pequenos) • 1 quadrado • 1 paralelogramo",
+    "page": 87
+  },
+  {
+    "term": "Taxa",
+    "definition": "Representa o custo ou a remuneração do dinheiro, expressa como uma porcentagem de um valor principal (capital) durante um tempo específico. Ela é usada para calcular juros em empréstimos, financiamentos e investimentos, e pode ser diária, mensal, anual, entre outras. A taxa também pode se referir à inflação, como a inflação acumulada, e influenciar o rendimento real de um investimento.",
+    "page": 88
+  },
+  {
+    "term": "Teorema",
+    "definition": "Afirmação que pode ser provada como verdadeira, por meio de outras afirmações já demonstradas, como outros teoremas, juntamente com afirmações anteriormente aceitas, como axiomas. Prova é o processo de mostrar que um teorema está correto. O termo teorema foi introduzido por Euclides, em Elementos, para significar \"afirmação que pode ser provada\". O Teorema de Pitágoras é um exemplo famoso de Teorema.",
+    "page": 88
+  },
+  {
+    "term": "Teorema de Pitágoras",
+    "definition": "Relação matemática fundamental que estabelece que, em qualquer triângulo retângulo, o quadrado da hipotenusa (o lado maior) é igual à soma dos quadrados dos outros dois lados (os catetos). A fórmula é representada como 𝑐2=𝑎2+𝑏2 onde 'a' e 'b' são os comprimentos dos catetos e 'c' é o comprimento da hipotenusa.",
+    "page": 88
+  },
+  {
+    "term": "Teorema de Tales",
+    "definition": "Propriedade da geometria que afirma que, se um feixe de retas paralelas for cortado por duas ou mais retas transversais, os segmentos de reta formados nessas transversais serão proporcionais. Isso significa que a razão entre os segmentos de uma transversal é igual a razão",
+    "page": 88
+  },
+  {
+    "term": "Terça parte",
+    "definition": "Resultado de uma divisão em três partes iguais, sendo uma delas considerada.",
+    "page": 89
+  },
+  {
+    "term": "Termo",
+    "definition": "Cada componente individual de uma expressão algébrica ou numérica, separado por sinais de adição (+) ou subtração (-). Ele pode ser um número, uma variável, ou o produto de um número e variáveis.",
+    "page": 89
+  },
+  {
+    "term": "Tetraedro",
+    "definition": "Sólido geométrico com quatro faces triangulares, seis arestas e quatro vértices. É o poliedro mais simples e pode ser visto como uma pirâmide com base triangular. Quando todas as quatro faces são triângulos equiláteros iguais, é chamado de tetraedro regular, um dos cinco sólidos platônicos.",
+    "page": 89
+  },
+  {
+    "term": "Tonelada",
+    "definition": "Unidade de medida de massa que equivale a 1.000 quilogramas. É usada para medir objetos muito pesado. A sigla para a tonelada é t.",
+    "page": 89
+  },
+  {
+    "term": "Total",
+    "definition": "Resultado de uma soma ou adição de dois ou mais números, que são chamados de parcelas. O total representa o valor completo obtido após a junção de todas as partes ou quantidades.",
+    "page": 90
+  },
+  {
+    "term": "Transferidor",
+    "definition": "Instrumento usado para medir ou desenhar ângulos, que são formados por duas semirretas que compartilham um vértice comum. Ele geralmente se parece com um semicírculo (ou um círculo completo) e possui uma escala graduada em graus (de 0° a 180° ou de 0° a 360°) para permitir a medição precisa.",
+    "page": 90
+  },
+  {
+    "term": "Translação",
+    "definition": "Transformação geométrica que move todos os pontos de uma figura na mesma direção, mesmo sentido e mesma distância.",
+    "page": 90
+  },
+  {
+    "term": "Trapézio",
+    "definition": "Quadrilátero com exatamente um par de lados paralelos, chamados de bases. A soma de seus ângulos internos é sempre 360°. Os elementos de um trapézio incluem as bases (maior e menor), os lados oblíquos (ou não paralelos) e a altura, que é a distância perpendicular entre as bases.",
+    "page": 90
+  },
+  {
+    "term": "Trapézio escaleno",
+    "definition": "Tipo de trapézio onde todos os quatro lados têm medidas diferentes. Diferente do trapézio isósceles, seus lados não paralelos não são iguais, e ele pode ter qualquer combinação de ângulos, desde que tenha um par de lados paralelos, de acordo com a definição de trapézio.",
+    "page": 91
+  },
+  {
+    "term": "Trapézio Isósceles",
+    "definition": "Quadrilátero com dois lados paralelos (as bases) e os outros dois lados não paralelos de mesma medida (congruentes). Suas principais propriedades incluem: os ângulos da mesma base têm medidas iguais e as diagonais são de comprimento igual.",
+    "page": 91
+  },
+  {
+    "term": "Trapézio retângulo",
+    "definition": "Tipo de trapézio que possui dois ângulos internos de 90°. Uma característica específica é que um dos lados coincide com a altura do trapézio.",
+    "page": 91
+  },
+  {
+    "term": "Triângulo",
+    "definition": "Polígonos regulares, construídos a partir de três segmentos de reta, que formam três ângulos internos. Esses ângulos somam 180º, independentemente da forma geométrica ser mais aberta ou fechada, alta ou baixa.",
+    "page": 92
+  },
+  {
+    "term": "Triângulo acutângulo",
+    "definition": "Triângulo em que todos os seus três ângulos internos são agudos, ou seja, cada um mede menos de 90°. Ele não possui nenhum ângulo reto (igual a 90°) e nem ângulo obtuso (maior que 90°).",
+    "page": 92
+  },
+  {
+    "term": "Triângulo equilátero",
+    "definition": "Triângulo com três lados de medidas iguais e, três ângulos internos iguais a 60°. Por ter todos os lados e ângulos iguais, ele é considerado um polígono regular, também chamado de triângulo regular.",
+    "page": 92
+  },
+  {
+    "term": "Triângulo escaleno",
+    "definition": "Triângulo em que os seus três lados têm medidas diferentes. Consequentemente, seus três ângulos internos também são todos diferentes uns dos outros.",
+    "page": 93
+  },
+  {
+    "term": "Triângulo Isósceles",
+    "definition": "Triângulo que possui dois lados com o mesmo comprimento e dois ângulos da base com a mesma medida. O lado com comprimento diferente é chamado de base, e o ângulo oposto a ele é o ângulo do vértice.",
+    "page": 93
+  },
+  {
+    "term": "Triângulo obtusângulo",
+    "definition": "Triângulo que possui um ângulo interno obtuso, ou seja, com medida maior que 90°. Os outros dois ângulos deste triângulo são agudos, com medidas menores que 90°.",
+    "page": 93
+  },
+  {
+    "term": "Triângulo retângulo",
+    "definition": "Triângulo com um ângulo interno de 90°. Os dois lados que formam esse ângulo são chamados de catetos, e o lado oposto a ele é a hipotenusa, que é o lado mais longo.",
+    "page": 94
+  },
+  {
+    "term": "Trinômio",
+    "definition": "Expressão algébrica composta por três termos (monômios) conectados por uma operação de adição ou subtração.",
+    "page": 94
+  },
+  {
+    "term": "Undecágono",
+    "definition": "polígono com 11 lados e 11 ângulos. Quando é um undecágono regular, todos os seus 11 lados têm o mesmo comprimento e todos os seus 11 ângulos internos têm a mesma medida. A palavra vem do latim undecim (onze) e do grego gonia (ângulo).",
+    "page": 95
+  },
+  {
+    "term": "União",
+    "definition": "Operação que junta todos os elementos de dois ou mais conjuntos em um grupo só. O resultado forma um novo conjunto com tudo o que está nos grupos iniciais. Se um número ou item se repete nos dois lados, ele aparece apenas uma vez no resultado. O sinal usado para representar a união é o U (um \"u\" virado para cima).",
+    "page": 95
+  },
+  {
+    "term": "Unidade",
+    "definition": "Representação de uma única coisa (como uma laranja) ou o dígito na casa das unidades de um número (o último algarismo da direita).",
+    "page": 95
+  },
+  {
+    "term": "Unidade de medida",
+    "definition": "Padrão estabelecido para quantificar e expressar o tamanho, a quantidade ou a intensidade de uma grandeza física, como comprimento, massa ou tempo.",
+    "page": 95
+  },
+  {
+    "term": "Unidade de milhar",
+    "definition": "Representa um grupo de 1.000 unidades e é a quarta ordem do sistema de numeração decimal. Um número com unidade de milhar é um número de quatro ou mais algarismos, em que o algarismo mais à esquerda corresponde às unidades de milhar.",
+    "page": 95
+  },
+  {
+    "term": "Valor",
+    "definition": "Resultado de um cálculo ou a quantidade que um algarismo representa em um número. Ele pode ser o resultado de uma operação ou o valor intrínseco e posicional de um dígito dentro de um número.",
+    "page": 96
+  },
+  {
+    "term": "Valor absoluto",
+    "definition": "Resultado de uma expressão quando se substituem suas variáveis (letras) por números específicos e se realizam as operações indicadas. É o processo de converter uma expressão algébrica (que contém letras e números) em um único número, como um resultado ou valor absoluto (módulo) de um número é a sua distância até zero em uma reta numérica, sendo sempre um valor não negativo. Isso significa que o valor absoluto de um número positivo é ele mesmo, e o valor absoluto de um número negativo é o mesmo número, mas sem o sinal de negativo. Ele é representado entre duas barras verticais, como em |𝑥|.",
+    "page": 96
+  },
+  {
+    "term": "Valor numérico",
+    "definition": "Resultado obtido quando substituímos as letras (variáveis) de uma expressão algébrica por números e fazemos os cálculos.",
+    "page": 96
+  },
+  {
+    "term": "Valor posicional",
+    "definition": "Valor que cada algarismo tem de acordo com a sua posição no número, que pode ser unidades, dezenas, centenas, etc. Por exemplo, no número 928, o algarismo 8 representa 8 unidades, o 2 representa 2 dezenas (ou 20), e o 9 representa 9 centenas (ou 900).",
+    "page": 96
+  },
+  {
+    "term": "Variável",
+    "definition": "Símbolo, geralmente uma letra (como x, y ou z), que representa um valor numérico que pode variar ou ser desconhecido. Ela serve como um espaço reservado para um número em expressões, equações ou fórmulas, ajudando a resolver problemas onde os valores mudam ou são incertos.",
+    "page": 96
+  },
+  {
+    "term": "Verificação",
+    "definition": "Processo de conferir ou testar se um cálculo, uma resposta ou uma afirmação está correta. A verificação serve para dar segurança ao resultado obtido. Ela pode acontecer de diferentes maneiras:",
+    "page": 96
+  },
+  {
+    "term": "Vertical",
+    "definition": "Direção de cima para baixo ou de baixo para cima, como o eixo y em um plano cartesiano. Uma linha vertical é perpendicular à superfície horizontal.",
+    "page": 97
+  },
+  {
+    "term": "Vértice",
+    "definition": "Ponto onde duas ou mais linhas ou arestas se encontram. Em figuras planas, é o ponto onde dois lados se cruzam, como as \"pontas\" de um quadrado ou triângulo. Em sólidos geométricos, como um cubo, é o ponto onde três ou mais arestas se encontram. Para funções quadráticas, o vértice é o ponto mais alto ou mais baixo de uma parábola.",
+    "page": 97
+  },
+  {
+    "term": "Volume",
+    "definition": "Medida do espaço tridimensional ocupado por um objeto ou a capacidade de um recipiente de conter algo. É calculado pela multiplicação das três dimensões de um corpo (comprimento, largura e altura) e medido em unidades cúbicas, como o metro cúbico (m3).",
+    "page": 98
+  },
+  {
+    "term": "Zero da função",
+    "definition": "Valor de x que faz com que o resultado da função seja 0 (f(x)=0). Graficamente, representa o ponto onde o gráfico da função cruza o eixo horizontal x, também conhecido como raiz da função.",
+    "page": 99
+  }
+]
