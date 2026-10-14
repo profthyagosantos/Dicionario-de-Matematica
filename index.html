@@ -32,7 +32,7 @@
 <main>
 <section class="hero" id="inicio"><div class="blob one"></div><div class="blob two"></div><div class="blob three"></div><div class="hero-grid">
   <div><div class="eyebrow">Clube de Matemática</div><h1>Dicionário <span>de Matemática</span></h1><p>Uma biblioteca digital criada a partir da pesquisa, investigação e produção dos estudantes do 6º ao 9º ano da EMEFTI Martinho Motta da Silveira.</p>
-  <div class="hero-actions"><button class="btn primary" onclick="openReader()">📖 Abrir dicionário</button><button class="btn secondary" onclick="openProjectPdf()">📄 Conheça o projeto</button></div></div>
+  <div class="hero-actions"><button class="btn primary" onclick="openReader()">📖 Abrir dicionário</button><button class="btn secondary" onclick="openProjectPdf()">📄 Conheça o projeto</button><button class="btn secondary" onclick="openAboutPdf()">👤 Sobre o idealizador do projeto</button></div></div>
   <div class="cover-card"><img src="assets-capa.png" alt="Capa do Dicionário de Matemática do Ensino Fundamental"><div class="cover-caption">Produção pedagógica · Clube de Matemática</div></div>
 </div></section>
 <div class="stats"><div class="stats-grid"><div class="stat"><b>421</b><span>palavras no projeto</span></div><div class="stat"><b>8</b><span>turmas participantes</span></div><div class="stat"><b>6º–9º</b><span>anos do Ensino Fundamental</span></div><div class="stat"><b>99</b><span>páginas digitalizadas</span></div></div></div>
@@ -148,7 +148,7 @@ function buildAlphabet(){
     a.appendChild(b);
   });
 }
-function openProjectPdf(){window.open('introducao-projeto.pdf','_blank','noopener');}
+function openProjectPdf(){window.open('introducao-projeto.pdf','_blank','noopener');} function openAboutPdf(){window.open('Sobre.pdf','_blank','noopener');}
 const feedbackText=document.getElementById('feedbackText');const feedbackCount=document.getElementById('feedbackCount');const feedbackStatus=document.getElementById('feedbackStatus');feedbackText?.addEventListener('input',()=>{feedbackCount.textContent=feedbackText.value.length});document.getElementById('feedbackForm')?.addEventListener('submit',async e=>{e.preventDefault();const form=e.currentTarget;const btn=form.querySelector('button[type=submit]');const status=document.getElementById('feedbackStatus');if(btn)btn.disabled=true;if(status){status.textContent='Enviando feedback…';status.classList.add('show')}try{const response=await fetch(form.action,{method:'POST',body:new FormData(form),headers:{'Accept':'application/json'}});if(!response.ok)throw new Error('Falha no envio');form.reset();if(feedbackCount)feedbackCount.textContent='0';if(status)status.textContent='Feedback enviado com sucesso. Obrigado pela contribuição!'}catch(err){if(status)status.textContent='Não foi possível enviar agora. Tente novamente em instantes.'}finally{if(btn)btn.disabled=false}});
 buildBook();buildAlphabet();loadEntries();
 // prevent the common browser save/drag interaction on the reading surface; this is not DRM.
